@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "name": "Server 1",
+      "vless": "vless://UUID@example.com:443?type=ws&security=tls#Server1"
+    },
+    {
+      "name": "Server 2",
+      "vless": "vless://UUID@example2.com:443?type=ws&security=tls#Server2"
+    }
+  ]
+}
