@@ -2,11 +2,11 @@
   "servers": [
     {
       "name": "Server 1",
-      "vless": "vless://UUID@example.com:443?type=ws&security=tls#Server1"
+      "vless": "vless://00114363-e4b7-4dab-a9bf-956ccadf84f7@zula.ir:8080?path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&security=none&encryption=none&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&type=ws#%20By%20EbraSha%20%C3%B0%C5%B8%E2%80%A2%C2%B9%C3%AF%C2%B8%C2%8F"
     },
     {
       "name": "Server 2",
-      "vless": "vless://UUID@example2.com:443?type=ws&security=tls#Server2"
+      "vless": "vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?security=reality&alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn&encryption=none&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0990d22f#%20By%20EbraSha%20%C3%B0%C5%B8%C2%A6%E2%80%A1"
     }
   ]
 }
