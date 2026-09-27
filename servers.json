@@ -13,574 +13,514 @@
       "vless": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.104.144:8081?path=/vless-test&security=none&encryption=none&type=ws#EPODONIOS"
     },
     {
-      "name": "Server 3 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://1a524663-4a74-4aad-b530-8618a540d857@23.137.249.110:20365?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS"
+      "name": "Server 3 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@170.114.46.6:80?security=none&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&encryption=none#US 🇺🇸 | @Raydikalx | 522BF7"
     },
     {
-      "name": "Server 4 [JP]",
+      "name": "Server 4 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://2b424263-d888-494a-eb6a-79538055d1ad@23.83.224.178:54322?path=/&security=none&encryption=none&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 5 [JP]",
       "country": "Japan",
       "country_code": "JP",
       "vless": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&security=none&type=tcp#EPODONIOS"
     },
     {
-      "name": "Server 5 [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22222?encryption=none&security=none&type=tcp#EPODONIOS"
-    },
-    {
-      "name": "Server 6 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#DE 🇩🇪 | @Raydikalx | E68BD9"
-    },
-    {
-      "name": "Server 7 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?allowInsecure=1&type=ws&host=neth8.lunariai.ru&path=/#EPODONIOS"
-    },
-    {
-      "name": "Server 8 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=/vless/&security=none&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 9 [JP]",
+      "name": "Server 6 [JP]",
       "country": "Japan",
       "country_code": "JP",
       "vless": "vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=/vless/&security=&encryption=none&type=ws#JP 🇯🇵 | @Raydikalx | 3004CA"
     },
     {
-      "name": "Server 10 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 11 [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22223?encryption=none&security=none&type=tcp#EPODONIOS"
-    },
-    {
-      "name": "Server 12 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://1d9cbbf4-bb99-4b09-8750-1cc22d510018@178.105.120.168:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 13 [NL]",
-      "country": "Netherlands",
-      "country_code": "NL",
-      "vless": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.147.203:62145?&type=tcp&headerType=none&path=/#EPODONIOS"
-    },
-    {
-      "name": "Server 14 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://2787849c-1a49-4457-9db7-efcdb2578268@192.248.179.81:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 15 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://8ccc4581-eba9-4226-abbc-64e7d8fb415e@45.77.143.204:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | F21A16"
-    },
-    {
-      "name": "Server 16 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://e73df646-1f62-41bf-8c50-653497d603d0@SC-TheNetherlands2.09vpn.com:80?security=none&type=ws&path=/vless/&host=SC-TheNetherlands2.09vpn.com&packetEncoding=xudp&encryption=none#NL 🇳🇱 | @Raydikalx | 8218BF"
-    },
-    {
-      "name": "Server 17 [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 18 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?encryption=none&host=82.24.203.20&path=%2Ffd5ba98a3970&security=none&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 19 [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.168.14:22224?encryption=none&security=none&type=tcp#EPODONIOS"
-    },
-    {
-      "name": "Server 20 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?&sni=platform113.halalkhor.info&type=ws&headerType=none&host=platform113.halalkhor.info&path=/platform113#EPODONIOS"
-    },
-    {
-      "name": "Server 21 [MX]",
-      "country": "Mexico",
-      "country_code": "MX",
-      "vless": "vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS"
-    },
-    {
-      "name": "Server 22 [CA]",
+      "name": "Server 7 [CA]",
       "country": "Canada",
       "country_code": "CA",
       "vless": "vless://b1a8d1eb-dfb2-4dd3-afe6-cd0fff8177df@172.67.204.153:2052?sni=hikvision-plus.com&type=ws&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#CA 🇨🇦 | @Raydikalx | 4ECE38"
     },
     {
-      "name": "Server 23 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?&type=ws&headerType=none&host=platform117.halalkhor.info&path=/platform117#EPODONIOS"
-    },
-    {
-      "name": "Server 24 [DE]",
+      "name": "Server 8 [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#EPODONIOS"
+      "vless": "vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?path=%2Fvless%2F&security=&encryption=none&type=ws#DE 🇩🇪 | @Raydikalx | 51BEA1"
     },
     {
-      "name": "Server 25 [AE]",
-      "country": "United Arab Emirates",
-      "country_code": "AE",
-      "vless": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE 🇦🇪 | @Raydikalx | A14EFE"
+      "name": "Server 9 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#EPODONIOS"
     },
     {
-      "name": "Server 26 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?&sni=platform115.halalkhor.info&type=ws&headerType=none&host=platform115.halalkhor.info&path=/platform115#EPODONIOS"
-    },
-    {
-      "name": "Server 27 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?&type=ws&headerType=none&host=platform102.halalkhor.info&path=/platform102#EPODONIOS"
-    },
-    {
-      "name": "Server 28 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?&sni=platform107.halalkhor.info&type=ws&headerType=none&host=platform107.halalkhor.info&path=/platform107#EPODONIOS"
-    },
-    {
-      "name": "Server 29 [TH]",
-      "country": "Thailand",
-      "country_code": "TH",
-      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?security=none&type=ws&path=%2Fws&host=v2ray.simspeedup.com&packetEncoding=xudp#TH 🇹🇭 | @Raydikalx | 9CE0D6"
-    },
-    {
-      "name": "Server 30 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS"
-    },
-    {
-      "name": "Server 31 [EE]",
-      "country": "Estonia",
-      "country_code": "EE",
-      "vless": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#EE 🇪🇪 | @Raydikalx | CFF026"
-    },
-    {
-      "name": "Server 32 [SE]",
-      "country": "Sweden",
-      "country_code": "SE",
-      "vless": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@51.170.176.145:62145?&type=tcp&headerType=none&path=/#EPODONIOS"
-    },
-    {
-      "name": "Server 33 [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://fd3b5215-287b-4f16-84d9-6b5854dea110@us.netease.uz:8444?encryption=none&security=tls&sni=us.netease.uz&alpn=h2,http/1.1&fp=chrome&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 28D7DC"
-    },
-    {
-      "name": "Server 34 [SG]",
-      "country": "Singapore",
-      "country_code": "SG",
-      "vless": "vless://408fbae6-a40b-4f0b-9723-0b4ce8e3d035@172.236.142.114:443?type=tcp&security=tls&fp=random&sni=onhit.shalana.xyz#SG 🇸🇬 | @Raydikalx | 4CAB59"
-    },
-    {
-      "name": "Server 35 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://b1a8d1eb-dfb2-4dd3-afe6-cd0fff8177df@hikvision-plus.com:2052?path=/@BlueKnight_net--@BlueKnight_net&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws&sni=hikvision-plus.com#EPODONIOS"
-    },
-    {
-      "name": "Server 36 [FR]",
+      "name": "Server 10 [FR]",
       "country": "France",
       "country_code": "FR",
       "vless": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#EPODONIOS"
     },
     {
-      "name": "Server 37 [CA]",
+      "name": "Server 11 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://8ccc4581-eba9-4226-abbc-64e7d8fb415e@45.77.143.204:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | F21A16"
+    },
+    {
+      "name": "Server 12 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://2787849c-1a49-4457-9db7-efcdb2578268@192.248.179.81:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 13 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 14 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443/?type=ws&encryption=none&flow=&host=neth8.lunariai.ru&path=/#EPODONIOS"
+    },
+    {
+      "name": "Server 15 [SE]",
+      "country": "Sweden",
+      "country_code": "SE",
+      "vless": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@51.170.176.145:62145?&type=tcp&headerType=none&path=/#EPODONIOS"
+    },
+    {
+      "name": "Server 16 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://3c6d1933-b22a-484b-ac8a-63e24f5fba75@us4.998998.best:443?&security=tls&fp=chrome&sni=server14.9966338.xyz&type=ws&headerType=none&host=server14.9966338.xyz&path=%2Fujhgfytsrtw563675eud#CA 🇨🇦 | @Raydikalx | 59C575"
+      "vless": "vless://b1a8d1eb-dfb2-4dd3-afe6-cd0fff8177df@hikvision-plus.com:2052?path=/@BlueKnight_net--@BlueKnight_net&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws&sni=hikvision-plus.com#EPODONIOS"
     },
     {
-      "name": "Server 38 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=/platform103#EPODONIOS"
+      "name": "Server 17 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://1d9cbbf4-bb99-4b09-8750-1cc22d510018@178.105.120.168:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
     },
     {
-      "name": "Server 39 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.48.107:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 950346"
-    },
-    {
-      "name": "Server 40 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform108.halalkhor.info&path=/platform108#EPODONIOS"
-    },
-    {
-      "name": "Server 41 [EE]",
+      "name": "Server 18 [EE]",
       "country": "Estonia",
       "country_code": "EE",
       "vless": "vless://e60bc99b-6630-4799-af84-f90ebdc643b6@94.183.170.65:8081?encryption=none&host=hys2.arkonsoft.top&path=%2Fws%2Fgenerate&security=none&type=ws#EE 🇪🇪 | @Raydikalx | FDA807"
     },
     {
-      "name": "Server 42 [AE]",
-      "country": "United Arab Emirates",
-      "country_code": "AE",
-      "vless": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#EPODONIOS"
-    },
-    {
-      "name": "Server 43 [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://264c449d-2c7c-4b82-8457-8f6766946307@node-production-ccd3.up.railway.app:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fws#US 🇺🇸 | @Raydikalx | 1BD6E6"
-    },
-    {
-      "name": "Server 44 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform109&host=platform109.halalkhor.info&sni=platform109.golnamakcert.top#ZA 🇿🇦 | @Raydikalx | F7F434"
-    },
-    {
-      "name": "Server 45 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?&type=ws&headerType=none&host=platform118.halalkhor.info&path=/platform118#EPODONIOS"
-    },
-    {
-      "name": "Server 46 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?&type=ws&headerType=none&host=platform106.halalkhor.info&path=/platform106#EPODONIOS"
-    },
-    {
-      "name": "Server 47 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.195:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | E08020"
-    },
-    {
-      "name": "Server 48 [FR]",
-      "country": "France",
-      "country_code": "FR",
-      "vless": "vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?allowInsecure=1&encryption=none&path=%2Fvws%2F&security=tls&sni=bab-6.site&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 49 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.31.89:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | FFAFFF"
-    },
-    {
-      "name": "Server 50 [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://fa30976d-06dc-343c-9eef-6ed32ac1f73b@victoryprovpn-production-ea69.up.railway.app:443?path=/ws/fa30976d-06dc-343c-9eef-6ed32ac1f73b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=victoryprovpn-production-ea69.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=victoryprovpn-production-ea69.up.railway.app#US 🇺🇸 | @Raydikalx | 43F0EA"
-    },
-    {
-      "name": "Server 51 [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&type=tcp&security=tls&headerType=none&sni=186.190.211.188&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS"
-    },
-    {
-      "name": "Server 52 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://91d28760-ecf1-450b-9170-d310111a0e6d@104.20.30.10:443?path=/api/v2/63e9687fa53e441c/stream&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=us9.69lover.my&fp=chrome&type=ws&allowInsecure=0&sni=us9.69lover.my#CA 🇨🇦 | @Raydikalx | 6DA8B7"
-    },
-    {
-      "name": "Server 53 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 4FA2E4"
-    },
-    {
-      "name": "Server 54 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.48:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | C9C17C"
-    },
-    {
-      "name": "Server 55 [TH]",
-      "country": "Thailand",
-      "country_code": "TH",
-      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#EPODONIOS"
-    },
-    {
-      "name": "Server 56 [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://9198f982-ef72-5da8-c1fb-6ae60c6abf53@victoryprovpn-production-f93a.up.railway.app:443?path=/ws/9198f982-ef72-5da8-c1fb-6ae60c6abf53&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=victoryprovpn-production-f93a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=victoryprovpn-production-f93a.up.railway.app#EPODONIOS"
-    },
-    {
-      "name": "Server 57 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#EPODONIOS"
-    },
-    {
-      "name": "Server 58 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.224:2096?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&host=stf4f33.rumedia-cdn.com&type=ws&allowInsecure=0&sni=stf4f33.rumedia-cdn.com#EPODONIOS"
-    },
-    {
-      "name": "Server 59 [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://88ee0e1e-a2a2-477e-88ce-4875c058aeba@154.17.228.81:59686?encryption=none&type=ws&host=123.714541.xyz&path=%2FRa-vl&security=tls&fp=random&sni=123.714541.xyz#US 🇺🇸 | @Raydikalx | 8CE475"
-    },
-    {
-      "name": "Server 60 [AU]",
-      "country": "Australia",
-      "country_code": "AU",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@172.105.169.70:443?security=tls&type=tcp&allowInsecure=1&sni=172.105.169.70#AU 🇦🇺 | @Raydikalx | B41F77"
-    },
-    {
-      "name": "Server 61 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.202:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 161FA2"
-    },
-    {
-      "name": "Server 62 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.210.74:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | DEF3AC"
-    },
-    {
-      "name": "Server 63 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.22:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 8C3B14"
-    },
-    {
-      "name": "Server 64 [SG]",
-      "country": "Singapore",
-      "country_code": "SG",
-      "vless": "vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:34249?encryption=none&type=tcp&security=tls&sni=www.microsoft.com&allowInsecure=1#SG 🇸🇬 | @Raydikalx | 3DBE05"
-    },
-    {
-      "name": "Server 65 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 9C0660"
-    },
-    {
-      "name": "Server 66 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://b1a8d1eb-dfb2-4dd3-afe6-cd0fff8177df@cctvhikvision.center:2053?encryption=none&security=tls&sni=uwu.blueknightnet.qzz.io&fp=chrome&alpn=h2&type=ws&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net#CA 🇨🇦 | @Raydikalx | AA5289"
-    },
-    {
-      "name": "Server 67 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.72:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 6AF8DB"
-    },
-    {
-      "name": "Server 68 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.164.155:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | E157C0"
-    },
-    {
-      "name": "Server 69 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@104.21.3.219:443?path=/pai50288&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#EPODONIOS"
-    },
-    {
-      "name": "Server 70 [EE]",
+      "name": "Server 19 [EE]",
       "country": "Estonia",
       "country_code": "EE",
-      "vless": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&fp=chrome&security=tls&sni=estproxy4.lockdwn.com&type=tcp#EE 🇪🇪 | @Raydikalx | CA6925"
+      "vless": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#EE 🇪🇪 | @Raydikalx | CFF026"
     },
     {
-      "name": "Server 71 [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://77dc177b-79d9-49ac-92e1-2f1011faa5e3@103.31.4.10:443?&security=tls&fp=chrome&alpn=http/1.1&sni=f871a986.69lover.site&type=ws&headerType=none&host=f871a986.69lover.site&path=/api/v2/b8ee4ba356df307c/stream#EPODONIOS"
+      "name": "Server 20 [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.253.118:22224?security=none&type=tcp&encryption=none#FR 🇫🇷 | @Raydikalx | 88431B"
     },
     {
-      "name": "Server 72 [ZA]",
+      "name": "Server 21 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://e73df646-1f62-41bf-8c50-653497d603d0@SC-TheNetherlands2.09vpn.com:80?security=none&type=ws&path=/vless/&host=SC-TheNetherlands2.09vpn.com&packetEncoding=xudp&encryption=none#NL 🇳🇱 | @Raydikalx | 8218BF"
+    },
+    {
+      "name": "Server 22 [MX]",
+      "country": "Mexico",
+      "country_code": "MX",
+      "vless": "vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS"
+    },
+    {
+      "name": "Server 23 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://dc31fe25-d91d-4691-94cb-1085d31ab4f8@188.34.184.151:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 24 [ZA]",
       "country": "South Africa",
       "country_code": "ZA",
       "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?&type=ws&headerType=none&host=platform101.halalkhor.info&path=/platform101#EPODONIOS"
     },
     {
-      "name": "Server 73 [SG]",
+      "name": "Server 25 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.122:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=chrome&encryption=none#GB 🇬🇧 | @Raydikalx | 304609"
+    },
+    {
+      "name": "Server 26 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?&type=ws&headerType=none&host=platform118.halalkhor.info&path=/platform118#EPODONIOS"
+    },
+    {
+      "name": "Server 27 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform109&host=platform109.halalkhor.info&sni=platform109.golnamakcert.top#ZA 🇿🇦 | @Raydikalx | F7F434"
+    },
+    {
+      "name": "Server 28 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?&type=ws&headerType=none&host=platform106.halalkhor.info&path=/platform106#EPODONIOS"
+    },
+    {
+      "name": "Server 29 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.243.189:80?security=none&type=ws&path=%2Fplatform101&host=platform101.halalkhor.info#ZA 🇿🇦 | @Raydikalx | FEE924"
+    },
+    {
+      "name": "Server 30 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform108.halalkhor.info&path=/platform108#EPODONIOS"
+    },
+    {
+      "name": "Server 31 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.15:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=firefox#GB 🇬🇧 | @Raydikalx | 575323"
+    },
+    {
+      "name": "Server 32 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?allowInsecure=1&type=ws&host=neth8.lunariai.ru&path=/#EPODONIOS"
+    },
+    {
+      "name": "Server 33 [SG]",
+      "country": "Singapore",
+      "country_code": "SG",
+      "vless": "vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?type=tcp#SG 🇸🇬 | @Raydikalx | 72B95C"
+    },
+    {
+      "name": "Server 34 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?&type=ws&headerType=none&host=platform117.halalkhor.info&path=/platform117#EPODONIOS"
+    },
+    {
+      "name": "Server 35 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@104.17.70.206:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&alpn=h2%2Chttp%2F1.1&sni=free-server.techsonic.dev&fp=chrome&encryption=none#CA 🇨🇦 | @Raydikalx | A75070"
+    },
+    {
+      "name": "Server 36 [AE]",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "vless": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE 🇦🇪 | @Raydikalx | A14EFE"
+    },
+    {
+      "name": "Server 37 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.249:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=firefox#GB 🇬🇧 | @Raydikalx | 3CBBC7"
+    },
+    {
+      "name": "Server 38 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.37:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=firefox#GB 🇬🇧 | @Raydikalx | 300BB8"
+    },
+    {
+      "name": "Server 39 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.246.240:80?security=none&type=ws&path=%2Fplatform103&host=platform103.halalkhor.info&sni=platform103.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 9EB6E4"
+    },
+    {
+      "name": "Server 40 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#EPODONIOS"
+    },
+    {
+      "name": "Server 41 [HK]",
+      "country": "Hong Kong",
+      "country_code": "HK",
+      "vless": "vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#HK 🇭🇰 | @Raydikalx | 6CB524"
+    },
+    {
+      "name": "Server 42 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.250.125:80?security=none&type=ws&path=%2Fplatform106&host=platform106.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 0DB060"
+    },
+    {
+      "name": "Server 43 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.234.100:80?security=none&type=ws&path=%2Fplatform118&host=platform118.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 14557F"
+    },
+    {
+      "name": "Server 44 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.157:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=chrome&encryption=none#GB 🇬🇧 | @Raydikalx | 8D338E"
+    },
+    {
+      "name": "Server 45 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.132:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=chrome#GB 🇬🇧 | @Raydikalx | D6817F"
+    },
+    {
+      "name": "Server 46 [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?allowInsecure=1&encryption=none&path=%2Fvws%2F&security=tls&sni=bab-6.site&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 47 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.228.106:80?security=none&type=ws&path=%2Fplatform117&host=platform117.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 59AC17"
+    },
+    {
+      "name": "Server 48 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#NL 🇳🇱 | @Raydikalx | 069DEC"
+    },
+    {
+      "name": "Server 49 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | F51A5D"
+    },
+    {
+      "name": "Server 50 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.57:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=chrome&encryption=none#GB 🇬🇧 | @Raydikalx | 8F8983"
+    },
+    {
+      "name": "Server 51 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?&sni=platform107.halalkhor.info&type=ws&headerType=none&host=platform107.halalkhor.info&path=/platform107#EPODONIOS"
+    },
+    {
+      "name": "Server 52 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?encryption=none&host=82.24.203.20&path=%2Ffd5ba98a3970&security=none&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 53 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?&sni=platform113.halalkhor.info&type=ws&headerType=none&host=platform113.halalkhor.info&path=/platform113#EPODONIOS"
+    },
+    {
+      "name": "Server 54 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.31:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=chrome#GB 🇬🇧 | @Raydikalx | 07191A"
+    },
+    {
+      "name": "Server 55 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=/platform103#EPODONIOS"
+    },
+    {
+      "name": "Server 56 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.245.154:80?security=none&type=ws&path=%2Fplatform108&host=platform108.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 3C7BA6"
+    },
+    {
+      "name": "Server 57 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=%2Ftyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#CA 🇨🇦 | @Raydikalx | 189305"
+    },
+    {
+      "name": "Server 58 [SG]",
       "country": "Singapore",
       "country_code": "SG",
       "vless": "vless://408fbae6-a40b-4f0b-9723-0b4ce8e3d035@onhit.shalana.xyz:443?security=tls&type=tcp#SG 🇸🇬 | @Raydikalx | F4F586"
     },
     {
-      "name": "Server 74 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.33.25:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | C1DD08"
-    },
-    {
-      "name": "Server 75 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.135:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 5F26A6"
-    },
-    {
-      "name": "Server 76 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | AC72F3"
-    },
-    {
-      "name": "Server 77 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 76F5D4"
-    },
-    {
-      "name": "Server 78 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://91d28760-ecf1-450b-9170-d310111a0e6d@104.21.91.129:443?&security=tls&fp=chrome&sni=edfc774f.69lover.site&type=ws&headerType=none&host=edfc774f.69lover.site&path=%2Fapi%2Fv2%2F63e9687fa53e441c%2Fstream#CA 🇨🇦 | @Raydikalx | 86E495"
-    },
-    {
-      "name": "Server 79 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.9:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 415A85"
-    },
-    {
-      "name": "Server 80 [ES]",
-      "country": "Spain",
-      "country_code": "ES",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?type=tcp&security=tls&sni=#ES 🇪🇸 | @Raydikalx | EF05F3"
-    },
-    {
-      "name": "Server 81 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.251:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#CA 🇨🇦 | @Raydikalx | 31803A"
-    },
-    {
-      "name": "Server 82 [JP]",
-      "country": "Japan",
-      "country_code": "JP",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#JP 🇯🇵 | @Raydikalx | 3C8099"
-    },
-    {
-      "name": "Server 83 [RU]",
+      "name": "Server 59 [RU]",
       "country": "Russia",
       "country_code": "RU",
       "vless": "vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=media-se.compressor.work#EPODONIOS"
     },
     {
-      "name": "Server 84 [CA]",
+      "name": "Server 60 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?&type=ws&headerType=none&host=platform102.halalkhor.info&path=/platform102#EPODONIOS"
+    },
+    {
+      "name": "Server 61 [CA]",
       "country": "Canada",
       "country_code": "CA",
       "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.21:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#CA 🇨🇦 | @Raydikalx | D602EE"
     },
     {
-      "name": "Server 85 [CA]",
+      "name": "Server 62 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://264c449d-2c7c-4b82-8457-8f6766946307@node-production-ccd3.up.railway.app:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fws#US 🇺🇸 | @Raydikalx | 1BD6E6"
+    },
+    {
+      "name": "Server 63 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.33.237:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 216749"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | AC72F3"
     },
     {
-      "name": "Server 86 [CA]",
+      "name": "Server 64 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.84:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 09E0B6"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.6.186:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | CF55CC"
     },
     {
-      "name": "Server 87 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.53:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 001FED"
-    },
-    {
-      "name": "Server 88 [JP]",
-      "country": "Japan",
-      "country_code": "JP",
-      "vless": "vless://88ee0e1e-a2a2-477e-88ce-4875c058aeba@216.23.123.211:30718?encryption=none&security=tls&sni=123.714542.xyz&fp=random&type=ws&host=123.714542.xyz&path=%2FDesi-vl#JP 🇯🇵 | @Raydikalx | FBBB2B"
-    },
-    {
-      "name": "Server 89 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 4FBEA3"
-    },
-    {
-      "name": "Server 90 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.63:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 929E2C"
-    },
-    {
-      "name": "Server 91 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.0.87:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 3543C7"
-    },
-    {
-      "name": "Server 92 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.234:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 3FB990"
-    },
-    {
-      "name": "Server 93 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.56:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 861C59"
-    },
-    {
-      "name": "Server 94 [IT]",
-      "country": "Italy",
-      "country_code": "IT",
-      "vless": "vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@158.180.231.216:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&type=ws&host=bab-6.site&path=%2Fvws%2F#IT 🇮🇹 | @Raydikalx | 949F8F"
-    },
-    {
-      "name": "Server 95 [RU]",
+      "name": "Server 65 [RU]",
       "country": "Russia",
       "country_code": "RU",
       "vless": "vless://365de9e9-ba29-4819-af2d-766f9638e3be@media-se.compressor.work:14443?encryption=none&security=tls&type=ws&sni=media-se.compressor.work&alpn=http%2F1.1&path=%2Fws&fp=safari#RU 🇷🇺 | @Raydikalx | E71F11"
     },
     {
-      "name": "Server 96 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://b1a8d1eb-dfb2-4dd3-afe6-cd0fff8177df@undef.network:2053?encryption=none&security=tls&sni=uwu.blueknightnet.qzz.io&fp=chrome&alpn=h2&type=ws&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net#CA 🇨🇦 | @Raydikalx | BAFF9C"
+      "name": "Server 66 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.249.25:80?security=none&type=ws&path=%2Fplatform102&host=platform102.halalkhor.info#ZA 🇿🇦 | @Raydikalx | CF448C"
     },
     {
-      "name": "Server 97 [DE]",
+      "name": "Server 67 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://9198f982-ef72-5da8-c1fb-6ae60c6abf53@victoryprovpn-production-f93a.up.railway.app:443?path=/ws/9198f982-ef72-5da8-c1fb-6ae60c6abf53&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=victoryprovpn-production-f93a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=victoryprovpn-production-f93a.up.railway.app#EPODONIOS"
+    },
+    {
+      "name": "Server 68 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.210.74:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | DEF3AC"
+    },
+    {
+      "name": "Server 69 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&type=tcp&security=tls&headerType=none&sni=186.190.211.188&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS"
+    },
+    {
+      "name": "Server 70 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://91d28760-ecf1-450b-9170-d310111a0e6d@104.20.30.10:443?path=/api/v2/63e9687fa53e441c/stream&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=us9.69lover.my&fp=chrome&type=ws&allowInsecure=0&sni=us9.69lover.my#CA 🇨🇦 | @Raydikalx | 6DA8B7"
+    },
+    {
+      "name": "Server 71 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?security=tls&sni=SC-TheNetherlands1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#NL 🇳🇱 | @Raydikalx | 15372E"
+    },
+    {
+      "name": "Server 72 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://fd3b5215-287b-4f16-84d9-6b5854dea110@us.netease.uz:8444?encryption=none&security=tls&sni=us.netease.uz&alpn=h2,http/1.1&fp=chrome&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 28D7DC"
+    },
+    {
+      "name": "Server 73 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jp3.yohototo.top&path=/tyxyws#US 🇺🇸 | @Raydikalx | EDC5EE"
+    },
+    {
+      "name": "Server 74 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=%2Fws#GB 🇬🇧 | @Raydikalx | B29FC1"
+    },
+    {
+      "name": "Server 75 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.61:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=firefox#GB 🇬🇧 | @Raydikalx | D85171"
+    },
+    {
+      "name": "Server 76 [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.147:2096?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=stf94fd.rumedia-cdn.com&fp=firefox&type=ws&allowInsecure=0&sni=stf94fd.rumedia-cdn.com#DE 🇩🇪 | @Raydikalx | BC4B48"
+      "vless": "vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.224:2096?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&host=stf4f33.rumedia-cdn.com&type=ws&allowInsecure=0&sni=stf4f33.rumedia-cdn.com#EPODONIOS"
+    },
+    {
+      "name": "Server 77 [SG]",
+      "country": "Singapore",
+      "country_code": "SG",
+      "vless": "vless://408fbae6-a40b-4f0b-9723-0b4ce8e3d035@172.236.142.114:443?type=tcp&security=tls&fp=random&sni=onhit.shalana.xyz#SG 🇸🇬 | @Raydikalx | 4CAB59"
+    },
+    {
+      "name": "Server 78 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.197:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#CA 🇨🇦 | @Raydikalx | 8AC2AE"
+    },
+    {
+      "name": "Server 79 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.24.2.147:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#CA 🇨🇦 | @Raydikalx | 074A7C"
+    },
+    {
+      "name": "Server 80 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.9:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 415A85"
+    },
+    {
+      "name": "Server 81 [SG]",
+      "country": "Singapore",
+      "country_code": "SG",
+      "vless": "vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:34249?encryption=none&type=tcp&security=tls&sni=www.microsoft.com&allowInsecure=1#SG 🇸🇬 | @Raydikalx | 3DBE05"
+    },
+    {
+      "name": "Server 82 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.135:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 5F26A6"
+    },
+    {
+      "name": "Server 83 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://fa30976d-06dc-343c-9eef-6ed32ac1f73b@victoryprovpn-production-ea69.up.railway.app:443?path=/ws/fa30976d-06dc-343c-9eef-6ed32ac1f73b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=victoryprovpn-production-ea69.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=victoryprovpn-production-ea69.up.railway.app#US 🇺🇸 | @Raydikalx | 43F0EA"
+    },
+    {
+      "name": "Server 84 [EE]",
+      "country": "Estonia",
+      "country_code": "EE",
+      "vless": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&fp=chrome&security=tls&sni=estproxy4.lockdwn.com&type=tcp#EE 🇪🇪 | @Raydikalx | CA6925"
+    },
+    {
+      "name": "Server 85 [AU]",
+      "country": "Australia",
+      "country_code": "AU",
+      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@172.105.169.70:443?security=tls&type=tcp&allowInsecure=1&sni=172.105.169.70#AU 🇦🇺 | @Raydikalx | B41F77"
+    },
+    {
+      "name": "Server 86 [IT]",
+      "country": "Italy",
+      "country_code": "IT",
+      "vless": "vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@158.180.231.216:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&type=ws&host=bab-6.site&path=%2Fvws%2F#IT 🇮🇹 | @Raydikalx | 949F8F"
+    },
+    {
+      "name": "Server 87 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?alpn=http%2F1.1&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la&security=tls&sni=www.large-files.info&type=ws#CA 🇨🇦 | @Raydikalx | 74CFF1"
     }
   ]
 }
