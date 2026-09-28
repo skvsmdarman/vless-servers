@@ -4,55 +4,55 @@
       "name": "Server 1 [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.104.144:8081?path=/vless-test&security=none&encryption=none&type=ws#EPODONIOS"
+      "vless": "vless://2b424263-d888-494a-eb6a-79538055d1ad@23.83.224.178:54322?path=/&security=none&encryption=none&type=ws#EPODONIOS"
     },
     {
       "name": "Server 2 [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://2b424263-d888-494a-eb6a-79538055d1ad@23.83.224.178:54322?path=/&security=none&encryption=none&type=ws#EPODONIOS"
+      "vless": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.39:8081?security=none&type=ws&path=/vless-test&packetEncoding=xudp&encryption=none#US 🇺🇸 | @Raydikalx | E1A303"
     },
     {
       "name": "Server 3 [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?&type=ws&headerType=none&host=soft-shadow-1e33.xicav73335.workers.dev&path=/ws#EPODONIOS"
+      "vless": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.104.144:8081?path=/vless-test&security=none&encryption=none&type=ws#EPODONIOS"
     },
     {
       "name": "Server 4 [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?security=none&type=ws&path=%2F&host=free.sahanwickramasinghe.me#US 🇺🇸 | @Raydikalx | 1C82FA"
+      "vless": "vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@170.114.46.6:80?security=none&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&encryption=none#US 🇺🇸 | @Raydikalx | 522BF7"
     },
     {
       "name": "Server 5 [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?encryption=none&security=none&type=ws&host=3h-unitedstates1.09vpn.com&path=/vless/#EPODONIOS"
+      "vless": "vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?&type=ws&headerType=none&host=soft-shadow-1e33.xicav73335.workers.dev&path=/ws#EPODONIOS"
     },
     {
-      "name": "Server 6 [JP]",
-      "country": "Japan",
-      "country_code": "JP",
-      "vless": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&security=none&type=tcp#EPODONIOS"
+      "name": "Server 6 [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=&encryption=none&type=ws#EPODONIOS"
     },
     {
       "name": "Server 7 [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://80399442-9994-4a53-84a0-5a56aa783ab7@178.105.120.90:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | 881057"
+      "vless": "vless://2787849c-1a49-4457-9db7-efcdb2578268@192.248.179.81:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
     },
     {
       "name": "Server 8 [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://fd3b5215-287b-4f16-84d9-6b5854dea110@us.netease.uz:8444?encryption=none&security=tls&sni=us.netease.uz&alpn=h2,http/1.1&fp=chrome&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 28D7DC"
+      "vless": "vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?security=none&type=ws&path=%2F&host=free.sahanwickramasinghe.me#US 🇺🇸 | @Raydikalx | 1C82FA"
     },
     {
-      "name": "Server 9 [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@170.114.46.6:80?security=none&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&encryption=none#US 🇺🇸 | @Raydikalx | 522BF7"
+      "name": "Server 9 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://a8721465-2ee4-4c06-90bc-18145e8f8ea2@91.98.109.64:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | EE7EDE"
     },
     {
       "name": "Server 10 [DE]",
@@ -61,64 +61,64 @@
       "vless": "vless://dc31fe25-d91d-4691-94cb-1085d31ab4f8@188.34.184.151:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
     },
     {
-      "name": "Server 11 [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.39:8081?security=none&type=ws&path=/vless-test&packetEncoding=xudp&encryption=none#US 🇺🇸 | @Raydikalx | E1A303"
+      "name": "Server 11 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://80399442-9994-4a53-84a0-5a56aa783ab7@178.105.120.90:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | 881057"
     },
     {
-      "name": "Server 12 [FR]",
-      "country": "France",
-      "country_code": "FR",
-      "vless": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=&encryption=none&type=ws#EPODONIOS"
+      "name": "Server 12 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://3f1a4a95-e459-4bf7-87eb-d43830e18466@45.76.93.230:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | 70693F"
     },
     {
       "name": "Server 13 [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://a8721465-2ee4-4c06-90bc-18145e8f8ea2@91.98.109.64:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | EE7EDE"
+      "vless": "vless://8ccc4581-eba9-4226-abbc-64e7d8fb415e@45.77.143.204:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | F21A16"
     },
     {
-      "name": "Server 14 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#EPODONIOS"
+      "name": "Server 14 [JP]",
+      "country": "Japan",
+      "country_code": "JP",
+      "vless": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&security=none&type=tcp#EPODONIOS"
     },
     {
-      "name": "Server 15 [DE]",
+      "name": "Server 15 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&security=none&type=ws&host=mypanel.unixzone.us&path=/#EPODONIOS"
+    },
+    {
+      "name": "Server 16 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#NL 🇳🇱 | @Raydikalx | 069DEC"
+    },
+    {
+      "name": "Server 17 [DE]",
       "country": "Germany",
       "country_code": "DE",
       "vless": "vless://9be7fcec-5b90-4cf7-828c-ccbd889fd03c@136.244.85.41:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | B2BA33"
     },
     {
-      "name": "Server 16 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://8ccc4581-eba9-4226-abbc-64e7d8fb415e@45.77.143.204:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | F21A16"
-    },
-    {
-      "name": "Server 17 [NL]",
+      "name": "Server 18 [NL]",
       "country": "The Netherlands",
       "country_code": "NL",
       "vless": "vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443/?type=ws&encryption=none&flow=&host=neth8.lunariai.ru&path=/#EPODONIOS"
     },
     {
-      "name": "Server 18 [NL]",
+      "name": "Server 19 [NL]",
       "country": "The Netherlands",
       "country_code": "NL",
       "vless": "vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?allowInsecure=1&type=ws&host=neth8.lunariai.ru&path=/#EPODONIOS"
     },
     {
-      "name": "Server 19 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://2787849c-1a49-4457-9db7-efcdb2578268@192.248.179.81:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 20 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#NL 🇳🇱 | @Raydikalx | 069DEC"
+      "name": "Server 20 [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "vless": "vless://2a12a637-2724-4789-a64d-64ebc1b9bbf3@64.176.77.202:80?security=none&type=ws&path=%2F#PL 🇵🇱 | @Raydikalx | 7893B3"
     },
     {
       "name": "Server 21 [DE]",
@@ -127,352 +127,352 @@
       "vless": "vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?encryption=none&host=82.24.203.20&path=%2Ffd5ba98a3970&security=none&type=ws#EPODONIOS"
     },
     {
-      "name": "Server 22 [EE]",
-      "country": "Estonia",
-      "country_code": "EE",
-      "vless": "vless://e60bc99b-6630-4799-af84-f90ebdc643b6@94.183.170.65:8081?encryption=none&host=hys2.arkonsoft.top&path=%2Fws%2Fgenerate&security=none&type=ws#EE 🇪🇪 | @Raydikalx | FDA807"
-    },
-    {
-      "name": "Server 23 [SG]",
-      "country": "Singapore",
-      "country_code": "SG",
-      "vless": "vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=&encryption=none&headerType=none&type=tcp#EPODONIOS"
-    },
-    {
-      "name": "Server 24 [IT]",
-      "country": "Italy",
-      "country_code": "IT",
-      "vless": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&type=tcp&sni=/?v2rayNplus#EPODONIOS"
-    },
-    {
-      "name": "Server 25 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://3f1a4a95-e459-4bf7-87eb-d43830e18466@45.76.93.230:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | 70693F"
-    },
-    {
-      "name": "Server 26 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?path=/platform113&security=none&encryption=none&host=platform113.halalkhor.info&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 27 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@free.sahanwickramasinghe.me:80?encryption=none&type=ws#DE 🇩🇪 | @Raydikalx | D5EB4F"
-    },
-    {
-      "name": "Server 28 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://4c250d79-700a-4968-b50d-bae96983e1d7@199.247.7.55:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | 2F0169"
-    },
-    {
-      "name": "Server 29 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.135:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 5F26A6"
-    },
-    {
-      "name": "Server 30 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://1d9cbbf4-bb99-4b09-8750-1cc22d510018@178.105.120.168:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 31 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?&type=ws&headerType=none&host=platform118.halalkhor.info&path=/platform118#EPODONIOS"
-    },
-    {
-      "name": "Server 32 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.228.106:80?security=none&type=ws&path=%2Fplatform117&host=platform117.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 59AC17"
-    },
-    {
-      "name": "Server 33 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.247.122:80?security=none&type=ws&path=%2Fplatform115&host=platform115.halalkhor.info&sni=platform115.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 95366A"
-    },
-    {
-      "name": "Server 34 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?&type=ws&headerType=none&host=platform101.halalkhor.info&path=/platform101#EPODONIOS"
-    },
-    {
-      "name": "Server 35 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?sni=platform109.halalkhor.info&type=ws&host=platform109.halalkhor.info&path=/platform109#EPODONIOS"
-    },
-    {
-      "name": "Server 36 [EE]",
-      "country": "Estonia",
-      "country_code": "EE",
-      "vless": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#EE 🇪🇪 | @Raydikalx | CFF026"
-    },
-    {
-      "name": "Server 37 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform107&host=platform107.halalkhor.info&sni=platform107.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 552440"
-    },
-    {
-      "name": "Server 38 [AE]",
-      "country": "United Arab Emirates",
-      "country_code": "AE",
-      "vless": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE 🇦🇪 | @Raydikalx | 2B1CF9"
-    },
-    {
-      "name": "Server 39 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.243.189:80?security=none&type=ws&path=%2Fplatform101&host=platform101.halalkhor.info#ZA 🇿🇦 | @Raydikalx | FEE924"
-    },
-    {
-      "name": "Server 40 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#EPODONIOS"
-    },
-    {
-      "name": "Server 41 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 4FBEA3"
-    },
-    {
-      "name": "Server 42 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=/platform103#EPODONIOS"
-    },
-    {
-      "name": "Server 43 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform108.halalkhor.info&path=/platform108#EPODONIOS"
-    },
-    {
-      "name": "Server 44 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform115&host=platform115.halalkhor.info&sni=platform115.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 38EC39"
-    },
-    {
-      "name": "Server 45 [PL]",
-      "country": "Poland",
-      "country_code": "PL",
-      "vless": "vless://2a12a637-2724-4789-a64d-64ebc1b9bbf3@64.176.77.202:80?security=none&type=ws&path=%2F#PL 🇵🇱 | @Raydikalx | 7893B3"
-    },
-    {
-      "name": "Server 46 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://0a2dde28-70da-4863-a06f-35d007d94d35@151.242.2.81:443?encryption=none&host=cf9.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf9.rumedia-cdn.com&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 47 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform106&host=platform106.halalkhor.info&sni=platform106.golnamakcert.top#ZA 🇿🇦 | @Raydikalx | A41163"
-    },
-    {
-      "name": "Server 48 [IR]",
-      "country": "Iran",
-      "country_code": "IR",
-      "vless": "vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@afra4.nimbaha9.ir:2052?path=/eyurri&security=none&encryption=none&host=afra4.nimbaha9.ir&type=ws#EPODONIOS"
-    },
-    {
-      "name": "Server 49 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.249.25:80?security=none&type=ws&path=%2Fplatform102&host=platform102.halalkhor.info#ZA 🇿🇦 | @Raydikalx | CF448C"
-    },
-    {
-      "name": "Server 50 [ZA]",
+      "name": "Server 22 [ZA]",
       "country": "South Africa",
       "country_code": "ZA",
       "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.245.78:80?security=none&type=ws&path=%2Fplatform107&host=platform107.halalkhor.info&sni=platform107.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 359ED9"
     },
     {
-      "name": "Server 51 [ZA]",
+      "name": "Server 23 [EE]",
+      "country": "Estonia",
+      "country_code": "EE",
+      "vless": "vless://e60bc99b-6630-4799-af84-f90ebdc643b6@94.183.170.65:8081?encryption=none&host=hys2.arkonsoft.top&path=%2Fws%2Fgenerate&security=none&type=ws#EE 🇪🇪 | @Raydikalx | FDA807"
+    },
+    {
+      "name": "Server 24 [ZA]",
       "country": "South Africa",
       "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.234.100:80?security=none&type=ws&path=%2Fplatform118&host=platform118.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 14557F"
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.243.189:80?security=none&type=ws&path=%2Fplatform101&host=platform101.halalkhor.info#ZA 🇿🇦 | @Raydikalx | FEE924"
     },
     {
-      "name": "Server 52 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.250.125:80?security=none&type=ws&path=%2Fplatform106&host=platform106.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 0DB060"
-    },
-    {
-      "name": "Server 53 [TH]",
-      "country": "Thailand",
-      "country_code": "TH",
-      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?security=none&type=ws&path=%2Fws&host=v2ray.simspeedup.com&packetEncoding=xudp#TH 🇹🇭 | @Raydikalx | 9CE0D6"
-    },
-    {
-      "name": "Server 54 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?&type=ws&headerType=none&host=platform102.halalkhor.info&path=/platform102#EPODONIOS"
-    },
-    {
-      "name": "Server 55 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.31.89:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | FFAFFF"
-    },
-    {
-      "name": "Server 56 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@51.38.127.93:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS"
-    },
-    {
-      "name": "Server 57 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.9:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 415A85"
-    },
-    {
-      "name": "Server 58 [ZA]",
-      "country": "South Africa",
-      "country_code": "ZA",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.246.240:80?security=none&type=ws&path=%2Fplatform103&host=platform103.halalkhor.info&sni=platform103.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 9EB6E4"
-    },
-    {
-      "name": "Server 59 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 4FA2E4"
-    },
-    {
-      "name": "Server 60 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://3d08ed67-5a47-42d3-a948-ebc7d2eb21f7@free.sahanwickramasinghe.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=aka.ms&allowInsecure=1&fp=random#DE 🇩🇪 | @Raydikalx | 330713"
-    },
-    {
-      "name": "Server 61 [FR]",
-      "country": "France",
-      "country_code": "FR",
-      "vless": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?&type=ws&headerType=&host=ov-france1.09vpn.com&path=%2Fvless%2F#FR 🇫🇷 | @Raydikalx | 1A7D14"
-    },
-    {
-      "name": "Server 62 [ZA]",
+      "name": "Server 25 [ZA]",
       "country": "South Africa",
       "country_code": "ZA",
       "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.245.154:80?security=none&type=ws&path=%2Fplatform108&host=platform108.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 3C7BA6"
     },
     {
-      "name": "Server 63 [ZA]",
+      "name": "Server 26 [IT]",
+      "country": "Italy",
+      "country_code": "IT",
+      "vless": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&type=tcp&sni=/?v2rayNplus#EPODONIOS"
+    },
+    {
+      "name": "Server 27 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://4c250d79-700a-4968-b50d-bae96983e1d7@199.247.7.55:80?security=none&type=ws&path=%2F#DE 🇩🇪 | @Raydikalx | 2F0169"
+    },
+    {
+      "name": "Server 28 [TH]",
+      "country": "Thailand",
+      "country_code": "TH",
+      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?security=none&type=ws&path=%2Fws&host=v2ray.simspeedup.com&packetEncoding=xudp#TH 🇹🇭 | @Raydikalx | 9CE0D6"
+    },
+    {
+      "name": "Server 29 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.246.240:80?security=none&type=ws&path=%2Fplatform103&host=platform103.halalkhor.info&sni=platform103.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 9EB6E4"
+    },
+    {
+      "name": "Server 30 [AE]",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "vless": "vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE 🇦🇪 | @Raydikalx | 2B1CF9"
+    },
+    {
+      "name": "Server 31 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?path=/platform113&security=none&encryption=none&host=platform113.halalkhor.info&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 32 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#EPODONIOS"
+    },
+    {
+      "name": "Server 33 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.249.25:80?security=none&type=ws&path=%2Fplatform102&host=platform102.halalkhor.info#ZA 🇿🇦 | @Raydikalx | CF448C"
+    },
+    {
+      "name": "Server 34 [EE]",
+      "country": "Estonia",
+      "country_code": "EE",
+      "vless": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#EE 🇪🇪 | @Raydikalx | CFF026"
+    },
+    {
+      "name": "Server 35 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.250.125:80?security=none&type=ws&path=%2Fplatform106&host=platform106.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 0DB060"
+    },
+    {
+      "name": "Server 36 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=/platform103#EPODONIOS"
+    },
+    {
+      "name": "Server 37 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform108.halalkhor.info&path=/platform108#EPODONIOS"
+    },
+    {
+      "name": "Server 38 [SG]",
+      "country": "Singapore",
+      "country_code": "SG",
+      "vless": "vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=&encryption=none&headerType=none&type=tcp#EPODONIOS"
+    },
+    {
+      "name": "Server 39 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://1d9cbbf4-bb99-4b09-8750-1cc22d510018@178.105.120.168:80?path=/&security=&encryption=none&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 40 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.228.106:80?security=none&type=ws&path=%2Fplatform117&host=platform117.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 59AC17"
+    },
+    {
+      "name": "Server 41 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?sni=platform109.halalkhor.info&type=ws&host=platform109.halalkhor.info&path=/platform109#EPODONIOS"
+    },
+    {
+      "name": "Server 42 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://06765620-7fd9-4927-bf74-fa4b551f26b7@95.85.252.223:8443?security=reality&encryption=none&pbk=4IFrK2mEJSNBJEqyiWLvPgXGNjV8vK49SxPI0RmheWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#EPODONIOS"
+    },
+    {
+      "name": "Server 43 [ZA]",
       "country": "South Africa",
       "country_code": "ZA",
       "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.246.73:80?security=none&type=ws&path=%2Fplatform113&host=platform113.halalkhor.info#ZA 🇿🇦 | @Raydikalx | FBBE32"
     },
     {
-      "name": "Server 64 [CA]",
+      "name": "Server 44 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=/pai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#EPODONIOS"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 9C0660"
     },
     {
-      "name": "Server 65 [DE]",
+      "name": "Server 45 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#EPODONIOS"
+    },
+    {
+      "name": "Server 46 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#EPODONIOS"
+    },
+    {
+      "name": "Server 47 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.247.122:80?security=none&type=ws&path=%2Fplatform115&host=platform115.halalkhor.info&sni=platform115.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 95366A"
+    },
+    {
+      "name": "Server 48 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@139.84.234.100:80?security=none&type=ws&path=%2Fplatform118&host=platform118.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 14557F"
+    },
+    {
+      "name": "Server 49 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?&type=ws&headerType=none&host=platform102.halalkhor.info&path=/platform102#EPODONIOS"
+    },
+    {
+      "name": "Server 50 [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.147:2096?encryption=none&security=tls&sni=stf94fd.rumedia-cdn.com&type=ws&host=stf94fd.rumedia-cdn.com&path=/cdn/v3/live#DE 🇩🇪 | @Raydikalx | BC4B48"
+      "vless": "vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&host=www.linkedin.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#EPODONIOS"
     },
     {
-      "name": "Server 66 [CA]",
+      "name": "Server 51 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@cdn6.goonars.com:443?security=reality&encryption=none&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn6.goonars.com&sid=04a69fc6#EPODONIOS"
+    },
+    {
+      "name": "Server 52 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@84.32.177.74:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app.betust.net&sid=ef5d4ad5#EPODONIOS"
+    },
+    {
+      "name": "Server 53 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.202:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 161FA2"
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.19.4.149:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#CA 🇨🇦 | @Raydikalx | 879053"
     },
     {
-      "name": "Server 67 [EE]",
-      "country": "Estonia",
-      "country_code": "EE",
-      "vless": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&fp=chrome&security=tls&sni=estproxy4.lockdwn.com&type=tcp#EE 🇪🇪 | @Raydikalx | CA6925"
+      "name": "Server 54 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://0ce9e6d8-fa4f-4746-8d8a-1da5c46c964f@media.qeshmdiar.ir:8087?encryption=none&fp=chrome&pbk=fCYufMkCWiP1pkFPgZI3-PH0PYGCTsTdRck5rLZ_fXI&security=reality&sid=550f91&sni=instinct.radeon.com&spx=/9dcdcf8a52a3fce&type=tcp#EPODONIOS"
     },
     {
-      "name": "Server 68 [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.108:2096?path=/free-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#EPODONIOS"
+      "name": "Server 55 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://0ce9e6d8-fa4f-4746-8d8a-1da5c46c964f@store.qeshmdiyar.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=ab5b&sni=www.github.com&spx=/2559020cc4f5e93&type=tcp#EPODONIOS"
     },
     {
-      "name": "Server 69 [CA]",
+      "name": "Server 56 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://0c350e60-b7b4-4061-bd70-02280be45b09@p1real2.greewebservices.ir:1240?type=tcp&headerType=none&security=reality&fp=chrome&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#EPODONIOS"
+    },
+    {
+      "name": "Server 57 [IR]",
+      "country": "Iran",
+      "country_code": "IR",
+      "vless": "vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@afra4.nimbaha9.ir:2052?path=/eyurri&security=none&encryption=none&host=afra4.nimbaha9.ir&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 58 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://0ce9e6d8-fa4f-4746-8d8a-1da5c46c964f@play.qeshmdiyar.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=ab5b&sni=www.github.com&spx=/2559020cc4f5e93&type=tcp#EPODONIOS"
+    },
+    {
+      "name": "Server 59 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@free.sahanwickramasinghe.me:80?encryption=none&type=ws#DE 🇩🇪 | @Raydikalx | D5EB4F"
+    },
+    {
+      "name": "Server 60 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | F51A5D"
+      "vless": "vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?alpn=http%2F1.1&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la&security=tls&sni=www.large-files.info&type=ws#CA 🇨🇦 | @Raydikalx | 74CFF1"
     },
     {
-      "name": "Server 70 [AE]",
-      "country": "United Arab Emirates",
-      "country_code": "AE",
-      "vless": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE 🇦🇪 | @Raydikalx | A14EFE"
+      "name": "Server 61 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://0ce9e6d8-fa4f-4746-8d8a-1da5c46c964f@media.qeshmdiar.ir:8086?encryption=none&fp=chrome&pbk=nnq5J3zXFDHUGvCza7e5CMa34oexEcXUqAfqz_YY7yo&security=reality&sid=c1f547fd57b55e&sni=search.amd.com&spx=/3a38214afef924b&type=tcp#EPODONIOS"
     },
     {
-      "name": "Server 71 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=%2Ftyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#CA 🇨🇦 | @Raydikalx | 189305"
+      "name": "Server 62 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://0ce9e6d8-fa4f-4746-8d8a-1da5c46c964f@shop.jarorobo.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=ab5b&sni=www.github.com&spx=/2559020cc4f5e93&type=tcp#EPODONIOS"
     },
     {
-      "name": "Server 72 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.53:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 001FED"
+      "name": "Server 63 [CY]",
+      "country": "Cyprus",
+      "country_code": "CY",
+      "vless": "vless://0a975d79-6930-4861-a105-dc50793456de@2.56.123.131:443?security=reality&encryption=none&pbk=wDAQ_iQ_vv6lQiB9nCxIJviEhARWOQOPyhzos8EJW3o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=contact.yump.online&sid=9da47879658f9f25#EPODONIOS"
     },
     {
-      "name": "Server 73 [AU]",
-      "country": "Australia",
-      "country_code": "AU",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@172.105.169.70:443?security=tls&type=tcp&allowInsecure=1&sni=172.105.169.70#AU 🇦🇺 | @Raydikalx | B41F77"
+      "name": "Server 64 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?&type=ws&headerType=none&host=platform101.halalkhor.info&path=/platform101#EPODONIOS"
     },
     {
-      "name": "Server 74 [ES]",
-      "country": "Spain",
-      "country_code": "ES",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?type=tcp&security=tls&sni=#ES 🇪🇸 | @Raydikalx | EF05F3"
+      "name": "Server 65 [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://0422ee7e-b216-4cf1-b193-842e432ff233@idfr.melvona-digital.ir:443?security=reality&encryption=none&pbk=aD59VPJ29gUZ0x2Fb-k9atwznX7tn4OfIrX5CbLGURE&fp=chrome&type=tcp&sni=play.google.com&sid=c072d0591ffc9ef9#EPODONIOS"
     },
     {
-      "name": "Server 75 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | AC72F3"
+      "name": "Server 66 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform107&host=platform107.halalkhor.info&sni=platform107.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 552440"
     },
     {
-      "name": "Server 76 [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?allow_insecure=1&allowInsecure=1&insecure=1&security=tls&sni=186.190.211.188#GB 🇬🇧 | @Raydikalx | 667180"
+      "name": "Server 67 [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b#EPODONIOS"
     },
     {
-      "name": "Server 77 [KZ]",
-      "country": "Kazakhstan",
-      "country_code": "KZ",
-      "vless": "vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#EPODONIOS"
+      "name": "Server 68 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#EPODONIOS"
     },
     {
-      "name": "Server 78 [SG]",
-      "country": "Singapore",
-      "country_code": "SG",
-      "vless": "vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:34249?encryption=none&type=tcp&security=tls&sni=www.microsoft.com&allowInsecure=1#SG 🇸🇬 | @Raydikalx | 3DBE05"
+      "name": "Server 69 [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://0101cf76-c6ed-4f44-bb73-7c4063d6b56d@85.208.85.246:443?mode=gun&security=reality&encryption=none&pbk=01w9O08msj4EhPMnDCTaGI86QE9niKgh6JfYrrgAkjU&fp=chrome&type=grpc&serviceName=grpc&sni=gp.x5.ru&sid=5b152274dc22c82a#EPODONIOS"
     },
     {
-      "name": "Server 79 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.164.155:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | E157C0"
+      "name": "Server 70 [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@api.betust.net:443?security=reality&encryption=none&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.betust.net&sid=d6c172d3#EPODONIOS"
+    },
+    {
+      "name": "Server 71 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?&type=ws&headerType=none&host=platform118.halalkhor.info&path=/platform118#EPODONIOS"
+    },
+    {
+      "name": "Server 72 [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@188.225.77.241:443?security=reality&encryption=none&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.betust.net&sid=d6c172d3#EPODONIOS"
+    },
+    {
+      "name": "Server 73 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform115&host=platform115.halalkhor.info&sni=platform115.halalkhor.info#ZA 🇿🇦 | @Raydikalx | 38EC39"
+    },
+    {
+      "name": "Server 74 [ZA]",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform106&host=platform106.halalkhor.info&sni=platform106.golnamakcert.top#ZA 🇿🇦 | @Raydikalx | A41163"
+    },
+    {
+      "name": "Server 75 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://fd3b5215-287b-4f16-84d9-6b5854dea110@us.netease.uz:8444?encryption=none&security=tls&sni=us.netease.uz&alpn=h2,http/1.1&fp=chrome&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 28D7DC"
+    },
+    {
+      "name": "Server 76 [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "vless": "vless://0082f629-fe72-40b0-8e62-ba358eaacbde@31.56.188.185:443?security=reality&encryption=none&pbk=faBGu_MJ0duHpf3uw4Hm-eFxtgcODS39EJCyeLQUahM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=v1.convertermini.fit&sid=43dcff53849b81e6#EPODONIOS"
+    },
+    {
+      "name": "Server 77 [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://0101cf76-c6ed-4f44-bb73-7c4063d6b56d@85.208.85.246:25565?security=reality&encryption=none&pbk=01w9O08msj4EhPMnDCTaGI86QE9niKgh6JfYrrgAkjU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=iv.kommersant.ru&sid=09757eb9b828cc74#EPODONIOS"
+    },
+    {
+      "name": "Server 78 [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "vless": "vless://0422ee7e-b216-4cf1-b193-842e432ff233@pl.iramnovira.com:443?security=reality&encryption=none&pbk=qQsjMiQdwd5U97jSseGl21jkEEJ3yiGE-ESfzIH1oiQ&headerType=none&fp=chrome&type=tcp&sni=edge.com&sid=bf0902b60c587c3c#EPODONIOS"
+    },
+    {
+      "name": "Server 79 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%0A%20%20%22xmux%22%3A%20%7B%0A%20%20%20%20%22maxConcurrency%22%3A%20%2216-32%22%0A%20%20%7D%0A%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#EPODONIOS"
     },
     {
       "name": "Server 80 [RU]",
@@ -481,124 +481,124 @@
       "vless": "vless://365de9e9-ba29-4819-af2d-766f9638e3be@media-se.compressor.work:14443?encryption=none&security=tls&type=ws&sni=media-se.compressor.work&alpn=http%2F1.1&path=%2Fws&fp=safari#RU 🇷🇺 | @Raydikalx | E71F11"
     },
     {
-      "name": "Server 81 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?security=tls&sni=SC-TheNetherlands1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#NL 🇳🇱 | @Raydikalx | 15372E"
+      "name": "Server 81 [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "vless": "vless://040e129c-f6bc-4f7c-8351-bcbab5078cd1@91.196.161.218:2054?mode=gun&security=reality&encryption=none&pbk=LZEcqc7M6ypBzgtrnT-LjZKCbEQ8m-IgGhz24iezfDc&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=www.ibm.com&sid=54b24594713b5f13#EPODONIOS"
     },
     {
-      "name": "Server 82 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.48:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | C9C17C"
+      "name": "Server 82 [AE]",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "vless": "vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE 🇦🇪 | @Raydikalx | A14EFE"
     },
     {
-      "name": "Server 83 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.19.4.149:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#CA 🇨🇦 | @Raydikalx | 879053"
+      "name": "Server 83 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#EPODONIOS"
     },
     {
       "name": "Server 84 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@104.21.3.219:443?path=/pai50288&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#EPODONIOS"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | AC72F3"
     },
     {
-      "name": "Server 85 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://50414e45-4c5f-5a45-5553-48493148ec15@104.21.98.146:8443?security=tls&type=ws&path=/stream/PANEL_ZEUS/48493148ec15&host=cgzdynepurqs.mercury061.workers.dev&packetEncoding=xudp&sni=cgzdynepurqs.mercury061.workers.dev&fp=ios&encryption=none#CA 🇨🇦 | @Raydikalx | 86EEB9"
-    },
-    {
-      "name": "Server 86 [RU]",
+      "name": "Server 85 [RU]",
       "country": "Russia",
       "country_code": "RU",
-      "vless": "vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?alpn=http/1.1&encryption=none&fp=android&path=/ws&security=tls&sni=media-se.compressor.work&type=ws#RU 🇷🇺 | @Raydikalx | A13F39"
+      "vless": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@188.225.57.78:443?security=reality&encryption=none&pbk=NCW-zK60GXsiDdlbxww18Pqp4kz3zTG1URHWS_bnfDk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app4.betust.net&sid=3f7e0363#EPODONIOS"
     },
     {
-      "name": "Server 87 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.224:2096?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&host=stf4f33.rumedia-cdn.com&type=ws&allowInsecure=0&sni=stf4f33.rumedia-cdn.com#EPODONIOS"
-    },
-    {
-      "name": "Server 88 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.22:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 8C3B14"
-    },
-    {
-      "name": "Server 89 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.6.186:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | CF55CC"
-    },
-    {
-      "name": "Server 90 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?alpn=http%2F1.1&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la&security=tls&sni=www.large-files.info&type=ws#CA 🇨🇦 | @Raydikalx | 74CFF1"
-    },
-    {
-      "name": "Server 91 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.84:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 09E0B6"
-    },
-    {
-      "name": "Server 92 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.111.193:443?encryption=none&security=tls&sni=v2ray.simspeedup.com&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=v2ray.simspeedup.com&path=%2Fws#CA 🇨🇦 | @Raydikalx | F09F46"
-    },
-    {
-      "name": "Server 93 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://fa45096d-bed0-ad80-c773-23c300000003@172.67.134.136:443?security=tls&type=ws&path=%2F&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome#CA 🇨🇦 | @Raydikalx | 4F061E"
-    },
-    {
-      "name": "Server 94 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://3c6d1933-b22a-484b-ac8a-63e24f5fba75@us4.998998.best:443?&security=tls&fp=chrome&sni=server14.9966338.xyz&type=ws&headerType=none&host=server14.9966338.xyz&path=%2Fujhgfytsrtw563675eud#CA 🇨🇦 | @Raydikalx | 59C575"
-    },
-    {
-      "name": "Server 95 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@172.67.153.156:443?encryption=none&type=ws&security=tls&path=%2Fpai50288&sni=ccs2g.pai50288.uk&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=0&allowInsecure=0#CA 🇨🇦 | @Raydikalx | 62663E"
-    },
-    {
-      "name": "Server 96 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 9C0660"
-    },
-    {
-      "name": "Server 97 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.33.237:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#CA 🇨🇦 | @Raydikalx | 216749"
-    },
-    {
-      "name": "Server 98 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@104.19.32.166:443?encryption=none&security=tls&sni=v2ray.simspeedup.com&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=v2ray.simspeedup.com&path=%2Fws#CA 🇨🇦 | @Raydikalx | E7A35E"
-    },
-    {
-      "name": "Server 99 [CA]",
+      "name": "Server 86 [CA]",
       "country": "Canada",
       "country_code": "CA",
       "vless": "vless://50414e45-4c5f-5a45-5553-4017ea8bea78@104.18.80.149:443?security=tls&type=ws&path=/stream/PANEL_ZEUS/4017ea8bea78/loc-4&host=zeus-panel-mvtum1.mahdiharchegani.workers.dev&packetEncoding=xudp&sni=zeus-panel-mvtum1.mahdiharchegani.workers.dev&fp=unsafe&encryption=none#CA 🇨🇦 | @Raydikalx | 52D62B"
     },
     {
-      "name": "Server 100 [CA]",
+      "name": "Server 87 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://fa45096d-bed0-ad80-c773-23c30000001b@172.67.209.13:443?security=tls&type=ws&path=%2F&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome#CA 🇨🇦 | @Raydikalx | 4CB8F8"
+      "vless": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=/pai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#EPODONIOS"
+    },
+    {
+      "name": "Server 88 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=%2Ftyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#CA 🇨🇦 | @Raydikalx | 189305"
+    },
+    {
+      "name": "Server 89 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://3d08ed67-5a47-42d3-a948-ebc7d2eb21f7@free.sahanwickramasinghe.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=aka.ms&allowInsecure=1&fp=random#DE 🇩🇪 | @Raydikalx | 330713"
+    },
+    {
+      "name": "Server 90 [AU]",
+      "country": "Australia",
+      "country_code": "AU",
+      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@172.105.169.70:443?security=tls&type=tcp&allowInsecure=1&sni=172.105.169.70#AU 🇦🇺 | @Raydikalx | B41F77"
+    },
+    {
+      "name": "Server 91 [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?allow_insecure=1&allowInsecure=1&insecure=1&security=tls&sni=186.190.211.188#GB 🇬🇧 | @Raydikalx | 667180"
+    },
+    {
+      "name": "Server 92 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.147:2096?encryption=none&security=tls&sni=stf94fd.rumedia-cdn.com&type=ws&host=stf94fd.rumedia-cdn.com&path=/cdn/v3/live#DE 🇩🇪 | @Raydikalx | BC4B48"
+    },
+    {
+      "name": "Server 93 [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?alpn=http/1.1&encryption=none&fp=android&path=/ws&security=tls&sni=media-se.compressor.work&type=ws#RU 🇷🇺 | @Raydikalx | A13F39"
+    },
+    {
+      "name": "Server 94 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://0a2dde28-70da-4863-a06f-35d007d94d35@151.242.2.81:443?encryption=none&host=cf9.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf9.rumedia-cdn.com&type=ws#EPODONIOS"
+    },
+    {
+      "name": "Server 95 [SG]",
+      "country": "Singapore",
+      "country_code": "SG",
+      "vless": "vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:34249?encryption=none&type=tcp&security=tls&sni=www.microsoft.com&allowInsecure=1#SG 🇸🇬 | @Raydikalx | 3DBE05"
+    },
+    {
+      "name": "Server 96 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#EPODONIOS"
+    },
+    {
+      "name": "Server 97 [KZ]",
+      "country": "Kazakhstan",
+      "country_code": "KZ",
+      "vless": "vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#EPODONIOS"
+    },
+    {
+      "name": "Server 98 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#EPODONIOS"
+    },
+    {
+      "name": "Server 99 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://0d2a33bd-9770-4c5f-b321-bf19597a058f@ca.iranmomas.org:8041?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=&host=&sni=play.google.com&fp=chrome&pbk=-z6cgn79fnYFLbm9SEHlhE4ygL3vt-11xMpvLGMWyj8&sid=f2e1c0296f7f5a8a#EPODONIOS"
+    },
+    {
+      "name": "Server 100 [EE]",
+      "country": "Estonia",
+      "country_code": "EE",
+      "vless": "vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&fp=chrome&security=tls&sni=estproxy4.lockdwn.com&type=tcp#EE 🇪🇪 | @Raydikalx | CA6925"
     },
     {
       "name": "Server 1 Iran Special [DE]",
@@ -607,10 +607,598 @@
       "vless": "vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=%2F29c8fed7ca22&security=none&encryption=none&type=ws#ProxyMtpVPN-201"
     },
     {
-      "name": "Server 2 Iran Special [IT]",
+      "name": "Server 2 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.104.143:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#SS44-030"
+    },
+    {
+      "name": "Server 3 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?security=reality&encryption=none&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.hat.onl&sid=e8d6c07aa30b81fa#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 4 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#SS44-016"
+    },
+    {
+      "name": "Server 5 Iran Special [RO]",
+      "country": "Romania",
+      "country_code": "RO",
+      "vless": "vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&type=tcp&headerType=none#SS44-070"
+    },
+    {
+      "name": "Server 6 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@ww9.levikogjgfdd.ir:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#SS44-029"
+    },
+    {
+      "name": "Server 7 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#SS44-048"
+    },
+    {
+      "name": "Server 8 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#SS44-015"
+    },
+    {
+      "name": "Server 9 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://fc47db0c-c6f2-4665-bdb2-8f717822ce9d@157.228.133.86:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=20u3rf89.datahubfiles.com&fp=chrome&pbk=nUU2q7TJDSYUtX3WEDrXbsPm5AfjRw1ux6Z5YMOqBkI&sid=57410291b65f5546&spx=/HesarWeb#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 10 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://ed94cac8-17f7-4ec6-99c4-024bf09685f7@gsv6.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9ed2fa#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 11 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#SS44-092"
+    },
+    {
+      "name": "Server 12 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#SS44-018"
+    },
+    {
+      "name": "Server 13 Iran Special [CH]",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "vless": "vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.253:8082?security=reality&type=grpc&mode=gun&serviceName=vless-grpc-reality&packetEncoding=xudp&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 14 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?security=reality&encryption=none&pbk=r4Dp3mztZaizbDk28rEOkLikk7erR9dzzc-Jrsgraho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=a1b2c3d4#SS44-012"
+    },
+    {
+      "name": "Server 15 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://564082ff-cf3c-48db-9e10-8ad2312847b4@213.176.67.31:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node4.mxvpn.dev&sid=bbc68cec8bb8d2e3#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 16 Iran Special [AT]",
+      "country": "Austria",
+      "country_code": "AT",
+      "vless": "vless://950beaff-a665-4b36-baad-2251ba6bbd6a@152.53.102.127:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lstu.ru&fp=firefox&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&sid=848b53fea10a561e&type=tcp&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 17 Iran Special [ES]",
+      "country": "Spain",
+      "country_code": "ES",
+      "vless": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@link.oneokgames.com:443?encryption=none&type=grpc&security=reality&sni=link.oneokgames.com&pbk=x9m8Vxk2YlwXy8CLrHeEMDzLJWuRQ3mh6CPWA34u2yY&sid=ad613873130544ab&fp=firefox&serviceName=media.v1.SyncService#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 18 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://a8c2b2a5-dd17-40c0-8a18-d5a76ec43449@91.107.152.149:8443?security=reality&sni=www.cloudflare.com&type=tcp&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&sid=b5d663e4e2e19d#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 19 Iran Special [BG]",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "vless": "vless://ac93ba0b-cfe3-4615-a203-5d289a16ec40@sof.edgeptr.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&sid=f0eb800bd980b00b&type=tcp&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 20 Iran Special [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "vless": "vless://c43c1a42-27a8-47e3-a3c3-3abb72475e53@5.157.22.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&packetEncoding=xudp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 21 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://baaceb01-331f-4e97-a4df-a9f0010bfc70@95.216.156.73:443?mode=gun&security=reality&encryption=none&pbk=1pIMNU597OPiAm7BkxsHQYjvZewD9DU6-Ab_5KEycWs&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=288aab26#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 22 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#SS44-022"
+    },
+    {
+      "name": "Server 23 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://677d3c2c-386d-4a9c-9e7b-d2f65eac0a14@167.235.27.111:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=j3cc5W7W_YZCEtytH4LAY1cI-1jwhI2WIhjxI2HW_A8&sid=92460d#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 24 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://16ff7414-21ca-4986-bc6a-b3b53c4a9daf@13.143.164.45:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.bmw.com&fp=chrome&pbk=FScgwYQ_dBoGl0aBxxey5XtCWlUiRQxBZgQQT5XA0XI&sid=024bcbd9a3725da1&allowInsecure=1#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 25 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://010c6156-0ea1-49f3-9611-f3208d02b5af@37.27.193.206:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nr6.nl&sid=b684d13617792bb2#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 26 Iran Special [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "vless": "vless://45bb5f5c-8e39-4a4b-8c10-11109965469c@62.132.117.17:43439?type=grpc&security=reality&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=ae99c61853e8a6ae&sni=cdn.24cloudplay.ru&serviceName=streaming#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 27 Iran Special [JP]",
+      "country": "Japan",
+      "country_code": "JP",
+      "vless": "vless://70289a41-983c-43bf-8331-c2c8cfb1ffa0@evacuee.papstore.xyz:40724?&security=reality&flow=xtls-rprx-vision&pbk=k7iIWZPJ27YpA5ilhmAiRQP1P6fNWzQIIJNTYCmV6xw&sid=0d17feea&fp=chrome&sni=www.e-japannavi.com&type=tcp&headerType=none&host=www.e-japannavi.com&path=%2F#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 28 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://2c519fe6-bc8c-45ea-975a-3daa490e53df@91.98.84.163:443?type=xhttp&encryption=none&path=%2Fsd&host=&mode=auto&security=reality&pbk=pALBOb42lFneGFIOXJsaUoOXaTYycke6lWZR2a3LEh4&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 29 Iran Special [AT]",
+      "country": "Austria",
+      "country_code": "AT",
+      "vless": "vless://7bf5563e-398a-43f7-a41c-9bb70f5d9e1b@195.133.88.33:443?encryption=none&security=reality&sni=greenpepper.ir&fp=chrome&pbk=-IiFnk9aDo0AkvrcsB9GCbIOnnaQQVwgEJ4XsExcxi8&sid=f6bdc4d9&spx=%2F&type=grpc&serviceName=Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-Telegram%3A%40VPN_XW-&mode=gun#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 30 Iran Special [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://e15b0798-45e6-4a02-8385-80dc4b0faa70@151.247.197.104:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ion0IslEA6ZBWOa5rUgG-5T4_VUVGPdZr3-qYsPuwFM&sid=2d14d3a87ef15991&sni=ulra.whit3.net#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 31 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://615cba92-f384-4b4a-ba51-c3363428960f@91.107.155.114:443?mode=gun&security=reality&encryption=none&pbk=p7CAEb5EAxGI31JebdMU_5BY3ctPhuULPT98jz45LHg&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPNTelegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPNTelegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN&sni=tradingview.com&sid=dfe630bf#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 32 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://37c5c090-7d6f-4b9d-aec8-f09207960ce9@91.107.253.64:443?type=xhttp&security=reality&encryption=none&path=%2Ffarasati1&sni=www.wikipedia.org&fp=chrome&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&sid=1c213fd68e13&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 33 Iran Special [SE]",
+      "country": "Sweden",
+      "country_code": "SE",
+      "vless": "vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?security=reality&encryption=none&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e3daad69#SS44-065"
+    },
+    {
+      "name": "Server 34 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://896efe15-7363-4d6c-97aa-cb0bb5499228@95.217.240.156:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=gB2mHBv8PQXA0HSxOlOcB91nq5luio58GPdkjAgmk2M&sid=10ff054b&type=tcp&flow=xtls-rprx-vision&encryption=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 35 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#SS44-021"
+    },
+    {
+      "name": "Server 36 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://39a5f471-6ac7-4279-98ef-a3ad0601c816@nl1.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.philips.com&fp=chrome&security=reality&pbk=AFQAIB5u9Uu6nf9fkP1BdcSHivSuUv97l4FH-LoFYgw&sid=92dca6#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 37 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://04c9694e-657f-49b4-8f09-d5fc3e0d9127@103.109.234.13:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 38 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://8f31ed6e-c574-40a9-80e5-35445e63f548@94.176.3.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad&packetEncoding=xudp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 39 Iran Special [MD]",
+      "country": "Moldova",
+      "country_code": "MD",
+      "vless": "vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@gateway.onetimeok.com:443?&security=reality&pbk=TLAYLGGk8xnADNCg4_7-E3YqlC8L4lVo4m7aauBL7kU&sid=ce7d5b58da528cf1&fp=firefox&sni=gateway.onetimeok.com&type=grpc&serviceName=&mode=gun#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 40 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://5525c973-837a-4a25-9073-b6dd238b8a75@49.13.192.48:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=hoF3B2vCaQoCTF7xh_vcQDCzia2rJTDAyTuvlhn5YgM&sid=fcb2#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 41 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://fc16e2b7-5947-4c79-a69f-44e86786bccb@49.13.67.71:443?mode=gun&security=reality&encryption=none&pbk=L_IrFVqLCWx2T_8QyzZWW6RPWWpLGt4NOoGKHRLGKTQ&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPNTelegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPNTelegram:@Outline_VPN-Telegram:@Outline_VPN-Telegram:@Outline_VPN&sni=www.speedtest.net&sid=2254b919#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 42 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://Source-ipV2Ray@168.119.243.238:443?mode=gun&security=reality&encryption=none&pbk=7uxF2TFYvEKmpi3W6PC_kN5UxclpbxsDfoGwfhFDRwM&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=gsmarena.com&sid=a90ee22c#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 43 Iran Special [TR]",
+      "country": "Turkey",
+      "country_code": "TR",
+      "vless": "vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&encryption=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 44 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://ff40696b-06d6-443b-9481-8d01eddd13e1@107.181.151.39:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=d659da01fb94#SS44-113"
+    },
+    {
+      "name": "Server 45 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@germa12.ggisopi.su:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germa12.ggisopi.su#SS44-096"
+    },
+    {
+      "name": "Server 46 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://7f74ad83-4aaf-419b-8caf-ff66c354bcbc@147.45.240.161:443?security=reality&encryption=none&pbk=9qaBiJ3zMogUBKByaq71xT9xDu1dmN1b47rXOYUy6Rw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=6650429727ca#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 47 Iran Special [TR]",
+      "country": "Türkiye",
+      "country_code": "TR",
+      "vless": "vless://79b2404d-5c1f-493d-9d3b-c8d600fe9faf@144.225.65.215:443?encryption=none&fp=chrome&pbk=OETToGavBipgKa5zdk7nmU3-8RG4x_q_7gviYUpe2Fc&security=reality&sid=77dc7263f8&sni=yahoo.com&spx=%2FDtHKeuwYUMY76PR&type=tcp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 48 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://b4a38b91-502b-4c8b-9ebf-d9d46bc0ba74@a.fin.axylegend.shop:20200?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&pbk=FHwu__BwuyQOgcqMA_GVvN9xPiJ6VSKGi7G0xT7heH8&security=reality&sid=1b0b2cc1&sni=icloud.com&spx=/O8LQJbfXOlhM7zD&type=tcp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 49 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?mode=gun&security=reality&encryption=none&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=a18472f7#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 50 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://bbe0cd77-bbde-46a7-b0ac-c83d00b3130d@ne2.zovpn.pro:443?encryption=none&type=xhttp&path=%2Fgermany-xhttp&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&security=reality&sni=ne2.zovpn.pro&fp=chrome&pbk=NAxjDSF7aeMUSjnkCAp9Aujb6UUaEZtbM-9IQew7bG4&sid=4be3b5e3#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 51 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://aa167bb9-4882-417e-a9d1-676250111f70@md-kiv-2.blook.network:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&security=reality&sid=3c2f8f52&sni=md-kiv-2.blook.network&type=tcp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 52 Iran Special [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://1e078c17-3a93-462d-9fce-9276609e29e2@193.17.57.97:443?encryption=none&security=reality&sni=www.ubuntu.com&fp=chrome&pbk=RnknaI5LflTQ-PKaxVqfnkoSYFySH_ILHW4YGGC5dwg&sid=5e537fa282666cb9&type=xhttp&path=%2Fapi%2Fv1%2Ffeed%2Fa17f3c9e&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%22400-800%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22300-600%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%22524288-1048576%22%2C%22scMinPostsIntervalMs%22%3A%2230-100%22%7D#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 53 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@87.199.208.136:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 54 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://32954d49-1687-457d-9992-e4f233e9ccee@83.243.86.209:443?type=tcp&security=reality&path=%2F&sni=max.ru&fp=chrome&pbk=KqIktJ-mJFDrR7bIDz26rn6dDE6d3ehPoTh3wEmDNQY#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 55 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://57c2aa73-a255-4497-a9f6-aff7cf50f729@us.americanprime.vip:443?type=tcp&security=reality&sni=&pbk=hDCt-CTem81XpP0GqalO8lK1lyQd07AYkGzJkm_FAQc&sid=433810fd#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 56 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@109.121.44.71:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&sni=www.amd.com#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 57 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://70d73194b3424d7c826dcf2d3ad3adff@37.228.129.59:443?flow=xtls-rprx-vision&fp=chrome&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&security=reality&sid=96e03e0f184639ef&sni=www.asus.com&type=tcp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 58 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 59 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://af194c0e-95c3-417b-85bf-9ac3027f903e@146.0.73.104:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA&security=reality&sid=612d8fa72c&sni=ads.5ka.ru&type=tcp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 60 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://1e255ca5-93b1-4952-a838-0783dfc034d8@47.90.153.88:443?security=reality&encryption=none&pbk=QtYyp41YbDij6nygTaPPpqXqEGzDD3wYFI3YlfTjfBo&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=6b85179e#SS44-009"
+    },
+    {
+      "name": "Server 61 Iran Special [SE]",
+      "country": "Sweden",
+      "country_code": "SE",
+      "vless": "vless://fd2c95b1-f48e-4d44-9b53-f5560f2eaae4@16.170.148.222:443?security=reality&encryption=none&pbk=CzY9QJ1b2czWQHd5LwmghJhn_A-_fozAc2geAM7zk28&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 62 Iran Special [IT]",
       "country": "Italy",
       "country_code": "IT",
-      "vless": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#ProxyMtpVPN-242"
+      "vless": "vless://dbb84eca-ee83-4ea7-9db0-064803d4b469@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 63 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://e4714e7d-4e7b-4b2c-9d26-0c83e8d6d4bf@87.120.93.76:8443?type=grpc&security=reality&fp=firefox&pbk=gOummriWvIYMJpd5oifBLqxsf_jcWHVsxVI7wnM0rRo&sid=1e943a831d22faf6&sni=vpnforppl.top#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 64 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#SS44-017"
+    },
+    {
+      "name": "Server 65 Iran Special [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://7b93e3f1-c5bf-43cd-8fcd-e0e745c92d10@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#SS44-069"
+    },
+    {
+      "name": "Server 66 Iran Special [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "vless": "vless://3543614c-46db-4424-8437-5acbc5cda9a0@qcihplqn.edgecanvas.click:443?encryption=none&security=reality&sni=qcihplqn.edgecanvas.click&fp=firefox&pbk=MPxqy74EEb7RDNwClvznamQRJnfQdkacse8ox9b3tng&sid=ceaaccbe3b520cd0&type=xhttp&path=%2Fapi%2Fv1%2Fget-updates&mode=auto#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 67 Iran Special [TR]",
+      "country": "Türkiye",
+      "country_code": "TR",
+      "vless": "vless://b3425365-9251-4d70-860c-cc8caa23c9f4@panel.xvcloud.shop:10045?encryption=none&fp=ios&pbk=Kcz0h76xfwcEcVRV9Fjot3Dffbjofnji4OELIv9XkH4&security=reality&sid=1524ad6fe242e22b&sni=amp-api-edge.apps.apple.com&spx=%2FmNkxvDBdU7ktxS2&type=tcp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 68 Iran Special [TR]",
+      "country": "Türkiye",
+      "country_code": "TR",
+      "vless": "vless://280c9ff0-7efd-449f-818e-fe46b21aeafe@s3.tomandjery.eu:1004?security=reality&encryption=none&pbk=J6KjO1kPQZPPDhex23IhZwCbSlc2beKmsDGZ8em7sGg&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 69 Iran Special [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://34a38f21-310e-4da5-b549-35076e16993c@node3.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&type=tcp&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 70 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@141.98.6.178:443?&security=reality&flow=xtls-rprx-vision&pbk=TC8D2edifNXaro0S31ZiC9izi8tAmXJyxdOHptwNUTw&sid=660c1badc77a422b&fp=firefox&sni=edge-nl.mystatic-cdn.ru&type=tcp&headerType=none&host=edge-nl.mystatic-cdn.ru&path=%2F#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 71 Iran Special [SE]",
+      "country": "Sweden",
+      "country_code": "SE",
+      "vless": "vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.157.10.148:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=surstreming.vvzzkontaktezzvv.garden&sid=fb442438e2223836#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 72 Iran Special [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "vless": "vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@144.31.2.104:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&sni=pl.convert-flow.net#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 73 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://0e46345c-f33b-4f9b-b8ec-90e7c986af7e@mg1.zhujue.us:11000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=sFRyah8EOSGcab8TfIdkq53c5HBSwAVfYQCyvZ0_BG4&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=%2F&fp=chrome#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 74 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&allowinsecure=0&type=tcp&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 75 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@31.76.50.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=musicboss.eu&fp=firefox&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe&type=tcp&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 76 Iran Special [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@144.31.214.172:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2bc#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 77 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.connectv.net#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 78 Iran Special [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://00c0ad9b-dbcc-4194-9344-d618fdb51e36@ru-node.vopn.net:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&sid=acb5cbaad2c6650b&sni=ru-node.vopn.net&type=tcp&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 79 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://f463819c-5e64-458a-808b-6693afb47aa4@13.143.129.2:443?security=reality&amp;encryption=none&amp;pbk=IUPInbc2kxIIetMTiQ7i-SdGU0hMthEq2NFRdUVhWxQ&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=temp.adleger.ru&amp;sid=a3f8c2d1#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 80 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://e5488740-54ac-000b-a24d-7df428175d4c@nl02.goodmaximum.com:443?type=grpc&security=reality&sni=cloud.nimhogoa.com&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702&fp=chrome&serviceName=QToNrKDvQT5AfnFM&encryption=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 81 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@185.239.142.86:443?security=reality&flow=xtls-rprx-vision&sni=www.ign.com&type=tcp&fp=chrome&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 82 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://70983c95-9c61-49f6-90b0-bc6da73520eb@fi3.srv.oplcdn.link:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=chrome&mode=auto&path=%2F&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.com&type=xhttp&name=TG%3AYoutubeUnBlockRu#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 83 Iran Special [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "vless": "vless://87748aea-079c-4fd9-9af6-0ea5c91ceb45@144.31.5.105:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=telemetrics.pinecore.net&fp=safari&pbk=HjstheApR8mjk3d1bseY4_B1mE1qjbgI8GbNj4sg6EE&sid=baf60f71ee0350ef&spx=%2FiFj_wO_qdjKmFP3Q&type=tcp&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 84 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://3528af1b-878e-407a-b2c0-38643dbb791e@207.154.247.23:443?type=xhttp&path=%2Fawd&host=&mode=auto&security=reality&pbk=60vwoYMS62_-PzJunEfDMUNv4zt580Z7L8fCCRcCm0c&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 85 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://6055c53d-bb6d-4602-a731-be7a431424af@nl.iranmomas.org:8041?encryption=none&security=reality&sni=sni.kevnilo.ir&fp=ios&pbk=-z6cgn79fnYFLbm9SEHlhE4ygL3vt-11xMpvLGMWyj8&sid=f2e1c0296f7f5a8a&type=tcp&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 86 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://a9e36a51-0729-4b53-afcc-c0154901fdbb@gr2.iranmomas.org:8041?encryption=none&security=reality&sni=sni.kevnilo.ir&fp=firefox&pbk=-z6cgn79fnYFLbm9SEHlhE4ygL3vt-11xMpvLGMWyj8&sid=f2e1c0296f7f5a8a&type=tcp&headerType=none#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 87 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://af9471f2-9344-4d84-9fe1-72a264fde38e@153.80.241.60:8443?security=reality&encryption=none&pbk=CX5f7EdRDtVEgZIgh_ZLE7xYOntoVpk2S_t9EFraJGs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 88 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@87.120.216.144:443?security=reality&encryption=none&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gerwai1488.vvzzkontaktezzvv.garden&sid=0c13e8822e7f58aa#SS44-064"
+    },
+    {
+      "name": "Server 89 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?security=reality&encryption=none&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=1d86d17709852910#SS44-073"
+    },
+    {
+      "name": "Server 90 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://32561144-434f-4752-a731-f35cd191ba4a@72.56.96.239:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.roblugo.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 91 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://013b3e93-5b91-4146-b41d-4e517d68466f@95.85.228.53:443?security=reality&encryption=none&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee1.hat.onl&sid=5a7216aec1371894#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 92 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://41f75eba-8d27-4155-9402-fdf3a2c3adca@nl2.cloudhi.cc:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=O3m4d3CbfWDaJhV0U5YYiJQvvQPhb0NyC0_PqUJe530&sni=nl2.cloudhi.cc&sid=ab12#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 93 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 94 Iran Special [SE]",
+      "country": "Sweden",
+      "country_code": "SE",
+      "vless": "vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=swebz.loozerp.wiki&fp=firefox&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 95 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://70d73194b3424d7c826dcf2d3ad3adff@57.129.80.194:443?flow=xtls-rprx-vision&fp=chrome&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&security=reality&sid=96e03e0f184639ef&sni=www.asus.com&type=tcp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 96 Iran Special [HK]",
+      "country": "Hong Kong",
+      "country_code": "HK",
+      "vless": "vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.239.6.251:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=af1bdd293097b664#SS44-090"
+    },
+    {
+      "name": "Server 97 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://qGIpSqSIap2ncn@185.237.95.216:443?type=tcp&security=reality&sni=onlycats.photos&fp=chrome&flow=xtls-rprx-vision&pbk=K3Qci9i3W2_Pn88RiUGD8cjfuJ0fmFbc7e_YyupZBkM&sid=431c6edc#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 98 Iran Special [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#SS44-107"
+    },
+    {
+      "name": "Server 99 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#@DeltaKroneckerGithub"
+    },
+    {
+      "name": "Server 100 Iran Special [LV]",
+      "country": "Latvia",
+      "country_code": "LV",
+      "vless": "vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#SS44-098"
     }
   ]
 }
