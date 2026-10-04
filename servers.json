@@ -4,235 +4,235 @@
       "name": "Server 1 [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@167.68.4.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%201%20%5BUS%5D"
+      "vless": "vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?security=none&type=ws&path=%2F&host=free.sahanwickramasinghe.me&sni=support.zoom.us#Server%201%20%5BUS%5D"
     },
     {
-      "name": "Server 2 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@154.194.0.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%202%20%5BNL%5D"
+      "name": "Server 2 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?security=tls&type=ws&path=%2F&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome&encryption=none#Server%202%20%5BUS%5D"
     },
     {
-      "name": "Server 3 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.19.164.155:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#Server%203%20%5BCA%5D"
+      "name": "Server 3 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@155.46.213.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%203%20%5BUS%5D"
     },
     {
       "name": "Server 4 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@162.159.228.224:443?cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&path=%2Fws&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Server%204%20%5BCA%5D"
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@162.159.192.125:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#Server%204%20%5BCA%5D"
     },
     {
       "name": "Server 5 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@site.check-looks.space:2083?encryption=none&path=/&security=tls&type=ws#Server%205%20%5BCA%5D"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#Server%205%20%5BCA%5D"
     },
     {
       "name": "Server 6 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://50414e45-4c5f-5a45-5553-ef859652a80e@172.67.175.23:443?security=tls&type=ws&path=/stream/TrexBridge/ef859652a80e&host=trex-panel-nubj0s.samifakor.workers.dev&packetEncoding=xudp&sni=trex-panel-nubj0s.samifakor.workers.dev&fp=chrome&encryption=none#Server%206%20%5BCA%5D"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.195:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#Server%206%20%5BCA%5D"
     },
     {
       "name": "Server 7 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://08aaab35-a42d-4755-a03e-20c18cb1b3e8@argo6.5671234.xyz:443?path=/e8e2cecb6188f7fb&security=tls&encryption=none&insecure=0&host=argo6.5671234.xyz&type=ws&allowInsecure=0&sni=argo6.5671234.xyz#Server%207%20%5BCA%5D"
+      "vless": "vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@Site.check-looks.space:2083?encryption=none&security=tls&type=ws#Server%207%20%5BCA%5D"
     },
     {
       "name": "Server 8 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.21.6.186:443?path=/ws&security=tls&encryption=none&fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]}&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Server%208%20%5BCA%5D"
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.234:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws%23%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512#Server%208%20%5BCA%5D"
     },
     {
       "name": "Server 9 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://50414e45-4c5f-5a45-5553-ef859652a80e@172.67.193.182:443?security=tls&type=ws&path=/stream/TrexBridge/ef859652a80e&host=trex-panel-nubj0s.samifakor.workers.dev&packetEncoding=xudp&sni=trex-panel-nubj0s.samifakor.workers.dev&fp=chrome&encryption=none#Server%209%20%5BCA%5D"
+      "vless": "vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@site.check-looks.space:2083?encryption=none&path=/&security=tls&type=ws#Server%209%20%5BCA%5D"
     },
     {
       "name": "Server 10 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#Server%2010%20%5BCA%5D"
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@92.53.189.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2010%20%5BCA%5D"
     },
     {
       "name": "Server 11 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.21:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#Server%2011%20%5BCA%5D"
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.0.181:443?security=tls&sni=a.cwvps.eu.org&type=ws&path=%2Fws&host=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#Server%2011%20%5BCA%5D"
     },
     {
-      "name": "Server 12 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.19.4.149:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#Server%2012%20%5BCA%5D"
-    },
-    {
-      "name": "Server 13 [NL]",
+      "name": "Server 12 [NL]",
       "country": "The Netherlands",
       "country_code": "NL",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@188.42.145.7:8443?path=/dula?Telegram-WangCai2&security=tls&encryption=none&insecure=0&host=speed.dulacloud.store&fp=chrome&type=ws&allowInsecure=0&sni=speed.dulacloud.store#Server%2013%20%5BNL%5D"
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@193.227.99.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2012%20%5BNL%5D"
     },
     {
-      "name": "Server 14 [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.12.30.7:8443?sni=speed.dulacloud.store&type=ws&host=speed.dulacloud.store&path=/dula?Telegram-WangCai2fp=chrome&security=tls#Server%2014%20%5BGB%5D"
+      "name": "Server 13 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.80.111.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2013%20%5BDE%5D"
     },
     {
-      "name": "Server 15 [TR]",
-      "country": "Turkey",
-      "country_code": "TR",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@86.38.214.7:8443?&security=tls&fp=chrome&sni=speed.dulacloud.store&type=ws&headerType=none&host=speed.dulacloud.store&path=%2Fdula%3FTelegram-WangCai2#Server%2015%20%5BTR%5D"
+      "name": "Server 14 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.19.33.237:443?path=%2Fws&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Server%2014%20%5BCA%5D"
     },
     {
-      "name": "Server 16 [IN]",
-      "country": "India",
-      "country_code": "IN",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@154.198.173.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2fp%3Dchrome&host=speed.dulacloud.store&sni=speed.dulacloud.store&fp=chrome#Server%2016%20%5BIN%5D"
+      "name": "Server 15 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.21:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#Server%2015%20%5BCA%5D"
     },
     {
-      "name": "Server 17 [HU]",
-      "country": "Hungary",
-      "country_code": "HU",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.11.202.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2017%20%5BHU%5D"
+      "name": "Server 16 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.135:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#Server%2016%20%5BCA%5D"
     },
     {
-      "name": "Server 18 [CR]",
+      "name": "Server 17 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@188.42.89.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2017%20%5BNL%5D"
+    },
+    {
+      "name": "Server 18 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@154.194.0.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2018%20%5BNL%5D"
+    },
+    {
+      "name": "Server 19 [CR]",
       "country": "Costa Rica",
       "country_code": "CR",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@190.93.245.7:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=speed.dulacloud.store&path=%2Fdula%3FTelegram-WangCai2&security=tls&sni=speed.dulacloud.store&type=ws#Server%2018%20%5BCR%5D"
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@190.93.245.7:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=speed.dulacloud.store&path=%2Fdula%3FTelegram-WangCai2&security=tls&sni=speed.dulacloud.store&type=ws#Server%2019%20%5BCR%5D"
     },
     {
-      "name": "Server 19 [BZ]",
-      "country": "Belize",
-      "country_code": "BZ",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.131.7.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2019%20%5BBZ%5D"
+      "name": "Server 20 [TR]",
+      "country": "Turkey",
+      "country_code": "TR",
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@86.38.214.7:8443?&security=tls&fp=chrome&sni=speed.dulacloud.store&type=ws&headerType=none&host=speed.dulacloud.store&path=%2Fdula%3FTelegram-WangCai2#Server%2020%20%5BTR%5D"
     },
     {
-      "name": "Server 20 [PL]",
-      "country": "Poland",
-      "country_code": "PL",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@185.158.133.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2020%20%5BPL%5D"
-    },
-    {
-      "name": "Server 1 Iran Special [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#Server%201%20Iran%20Special%20%5BUS%5D"
+      "name": "Server 1 Iran Special [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=%2Fws#Server%201%20Iran%20Special%20%5BFR%5D"
     },
     {
       "name": "Server 2 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.1.1:2095?encryption=none&security=none&type=ws&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev.&path=%2F#Server%202%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@104.21.3.219:443?encryption=none&type=ws&path=%2Fpai50288&security=tls&fp=chrome&sni=ccs2g.pai50288.uk#Server%202%20Iran%20Special%20%5BCA%5D"
     },
     {
-      "name": "Server 3 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?security=none&type=ws&path=/&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&packetEncoding=xudp#Server%203%20Iran%20Special%20%5BCA%5D"
+      "name": "Server 3 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@170.114.45.6:80/?type=ws&encryption=none&flow=&host=free-server.techsonic.dev&path=/free-server.techsonic.dev#Server%203%20Iran%20Special%20%5BUS%5D"
     },
     {
       "name": "Server 4 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@104.21.3.219:443?encryption=none&type=ws&path=%2Fpai50288&security=tls&fp=chrome&sni=ccs2g.pai50288.uk#Server%204%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.9:443?encryption=none&security=tls&sni=v2ray.simspeedup.com&fp=unsafe&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=v2ray.simspeedup.com&path=%2Fws#Server%204%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 5 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://8f53fce2-6c17-4e37-9ae9-d969fd85117c@104.21.87.238:8080?security=none&type=ws&path=/vl/Wp4FqWLcoYNYXCovu4?ed=2560&host=ApI-hub-C9A393.ALiMiRZAi539-484.WOrKerS.DeV&packetEncoding=xudp&encryption=none#Server%205%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.185:443?security=tls&fp=unsafe&sni=v2ray.simspeedup.com&type=ws&headerType=none&host=v2ray.simspeedup.com&path=/ws#Server%205%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 6 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.21.70.21:443?encryption=none&security=tls&sni=a.cwvps.eu.org&type=ws&host=a.cwvps.eu.org&path=%2Fws#Server%206%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.2:443?encryption=none&security=tls&sni=v2ray.simspeedup.com&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=v2ray.simspeedup.com&path=%2Fws#Server%206%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 7 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://7c99dc89-bf49-45c9-acc5-e43f36657518@104.21.60.29:8443?security=tls&sni=www.large-files.info&type=ws&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la&alpn=http%2F1.1#Server%207%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@172.67.185.98:2053?security=tls&sni=fr.api-music-fa.com&type=ws&host=fr.api-music-fa.com&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&fp=chrome&alpn=http%2F1.1#Server%207%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 8 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://7c99dc89-bf49-45c9-acc5-e43f36657518@172.67.190.248:8443?security=tls&sni=www.large-files.info&type=ws&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la&alpn=http%2F1.1#Server%208%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.32.87:443?security=tls&sni=a.cwvps.eu.org&type=ws&path=%2Fws%23%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&host=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#Server%208%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 9 Iran Special [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?security=none&type=ws&path=/ws&host=soft-shadow-1e33.xicav73335.workers.dev&packetEncoding=xudp#Server%209%20Iran%20Special%20%5BUS%5D"
+      "vless": "vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?security=tls&type=ws&path=%2F&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#Server%209%20Iran%20Special%20%5BUS%5D"
     },
     {
       "name": "Server 10 Iran Special [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@154.211.8.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2010%20Iran%20Special%20%5BUS%5D"
+      "vless": "vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?path=/&security=tls&encryption=none&insecure=0&host=u.srilankangrill.online&fp=chrome&type=ws&allowInsecure=0&sni=u.srilankangrill.online#Server%2010%20Iran%20Special%20%5BUS%5D"
     },
     {
       "name": "Server 11 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?encryption=none&path=/var/www/html/video/preview/download/i8o0la&security=tls&type=ws#Server%2011%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.21.70.21:443?encryption=none&security=tls&sni=a.cwvps.eu.org&type=ws&host=a.cwvps.eu.org&path=%2Fws#Server%2011%20Iran%20Special%20%5BCA%5D"
     },
     {
-      "name": "Server 12 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.32.87:443?security=tls&sni=a.cwvps.eu.org&type=ws&path=%2Fws%23%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&host=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#Server%2012%20Iran%20Special%20%5BCA%5D"
-    },
-    {
-      "name": "Server 13 Iran Special [US]",
+      "name": "Server 12 Iran Special [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?security=none&type=ws&path=/dula&host=speed.dulacloud.store&sni=support.zoom.us#Server%2013%20Iran%20Special%20%5BUS%5D"
+      "vless": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?security=tls&type=ws&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&host=fr.api-music-fa.com&sni=fr.api-music-fa.com&fp=chrome&encryption=none#Server%2012%20Iran%20Special%20%5BUS%5D"
+    },
+    {
+      "name": "Server 13 Iran Special [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://7c99dc89-bf49-45c9-acc5-e43f36657518@104.21.60.29:8443?security=tls&sni=www.large-files.info&type=ws&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la&alpn=http%2F1.1#Server%2013%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 14 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.9:443?encryption=none&security=tls&sni=v2ray.simspeedup.com&fp=unsafe&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=v2ray.simspeedup.com&path=%2Fws#Server%2014%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://7c99dc89-bf49-45c9-acc5-e43f36657518@172.67.190.248:8443?security=tls&sni=www.large-files.info&type=ws&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la&alpn=http%2F1.1#Server%2014%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 15 Iran Special [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?security=tls&type=ws&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&host=fr.api-music-fa.com&sni=fr.api-music-fa.com&fp=chrome&encryption=none#Server%2015%20Iran%20Special%20%5BUS%5D"
+      "vless": "vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?security=none&type=ws&path=/dula&host=speed.dulacloud.store&sni=support.zoom.us#Server%2015%20Iran%20Special%20%5BUS%5D"
     },
     {
       "name": "Server 16 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.24.2.147:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#Server%2016%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@172.67.159.161:443?security=tls&sni=geo.shkola112.site&type=ws&host=geo.shkola112.site&path=%2Fapi-vless#Server%2016%20Iran%20Special%20%5BCA%5D"
     },
     {
-      "name": "Server 17 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.185:443?security=tls&fp=unsafe&sni=v2ray.simspeedup.com&type=ws&headerType=none&host=v2ray.simspeedup.com&path=/ws#Server%2017%20Iran%20Special%20%5BCA%5D"
+      "name": "Server 17 Iran Special [IN]",
+      "country": "India",
+      "country_code": "IN",
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@154.198.173.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2fp%3Dchrome&host=speed.dulacloud.store&sni=speed.dulacloud.store&fp=chrome#Server%2017%20Iran%20Special%20%5BIN%5D"
     },
     {
       "name": "Server 18 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.2:443?encryption=none&security=tls&sni=v2ray.simspeedup.com&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=v2ray.simspeedup.com&path=%2Fws#Server%2018%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.164.155:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#Server%2018%20Iran%20Special%20%5BCA%5D"
     },
     {
-      "name": "Server 19 Iran Special [FR]",
-      "country": "France",
-      "country_code": "FR",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=%2Fws#Server%2019%20Iran%20Special%20%5BFR%5D"
+      "name": "Server 19 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@154.211.8.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Server%2019%20Iran%20Special%20%5BUS%5D"
     },
     {
       "name": "Server 20 Iran Special [CW]",
@@ -253,22 +253,22 @@
       "vless": "vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@uspanel.unixzone.us:30016?path=/usserver&security=none&encryption=none&host=uspanel.unixzone.us&type=ws#Server%202%20Fast%20%5BUS%5D"
     },
     {
-      "name": "Server 3 Fast [NL]",
-      "country": "Netherlands",
-      "country_code": "NL",
-      "vless": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.205.157:62145?security=none&type=tcp#Server%203%20Fast%20%5BNL%5D"
+      "name": "Server 3 Fast [JP]",
+      "country": "Japan",
+      "country_code": "JP",
+      "vless": "vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#Server%203%20Fast%20%5BJP%5D"
     },
     {
-      "name": "Server 4 Fast [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://e676c6c8-44a8-4a1d-82cc-821a1f70f0c0@31.76.11.83:26150?type=tcp&encryption=none&security=none#Server%204%20Fast%20%5BDE%5D"
+      "name": "Server 4 Fast [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.17.189.78:443?path=/ws&security=tls&encryption=none&fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]}&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Server%204%20Fast%20%5BCA%5D"
     },
     {
-      "name": "Server 5 Fast [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://0dbacd35-9159-4648-89ac-c38b741567a8@164.37.111.117:2020?type=tcp#Server%205%20Fast%20%5BGB%5D"
+      "name": "Server 5 Fast [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=/ws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Server%205%20Fast%20%5BCA%5D"
     },
     {
       "name": "Server 6 Fast [FR]",
@@ -277,88 +277,88 @@
       "vless": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=&encryption=none&type=ws#Server%206%20Fast%20%5BFR%5D"
     },
     {
-      "name": "Server 7 Fast [DE]",
+      "name": "Server 7 Fast [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=/vless/&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#Server%207%20Fast%20%5BNL%5D"
+    },
+    {
+      "name": "Server 8 Fast [CO]",
+      "country": "Colombia",
+      "country_code": "CO",
+      "vless": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.63:62145?encryption=none&security=none&type=tcp&headerType=none#Server%208%20Fast%20%5BCO%5D"
+    },
+    {
+      "name": "Server 9 Fast [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://5aae7d2d-c152-42cc-afb6-fe805fb94531@139.162.149.105:80?type=ws&path=/#Server%207%20Fast%20%5BDE%5D"
+      "vless": "vless://5aae7d2d-c152-42cc-afb6-fe805fb94531@139.162.149.105:80?type=ws&path=/#Server%209%20Fast%20%5BDE%5D"
     },
     {
-      "name": "Server 8 Fast [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.81:2053?path=/vpn-wss/fluxor/59011/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#Server%208%20Fast%20%5BNL%5D"
-    },
-    {
-      "name": "Server 9 Fast [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.75:2053?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#Server%209%20Fast%20%5BNL%5D"
-    },
-    {
-      "name": "Server 10 Fast [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=/api-vless&security=tls&sni=geo.shkola112.site&type=ws#Server%2010%20Fast%20%5BCA%5D"
+      "name": "Server 10 Fast [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443/?type=ws&encryption=none&flow=&host=pannn1.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#Server%2010%20Fast%20%5BUS%5D"
     },
     {
       "name": "Server 11 Fast [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=/pai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#Server%2011%20Fast%20%5BCA%5D"
+      "vless": "vless://08aaab35-a42d-4755-a03e-20c18cb1b3e8@argo6.5671234.xyz:443?path=/e8e2cecb6188f7fb&security=tls&encryption=none&insecure=0&host=argo6.5671234.xyz&type=ws&allowInsecure=0&sni=argo6.5671234.xyz#Server%2011%20Fast%20%5BCA%5D"
     },
     {
       "name": "Server 12 Fast [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=/ws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Server%2012%20Fast%20%5BCA%5D"
+      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.21.6.186:443?path=/ws&security=tls&encryption=none&fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]}&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Server%2012%20Fast%20%5BCA%5D"
     },
     {
-      "name": "Server 13 Fast [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.80:2053?path=/vpn-wss/fluxor/59011/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#Server%2013%20Fast%20%5BNL%5D"
+      "name": "Server 13 Fast [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=/api-vless&security=tls&sni=geo.shkola112.site&type=ws#Server%2013%20Fast%20%5BCA%5D"
     },
     {
-      "name": "Server 14 Fast [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.79:2053?path=/vpn-wss/fluxor/59011/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#Server%2014%20Fast%20%5BNL%5D"
+      "name": "Server 14 Fast [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?alpn=http/1.1&encryption=none&path=/var/www/html/video/preview/download/i8o0la&security=tls&sni=www.large-files.info&type=ws#Server%2014%20Fast%20%5BCA%5D"
     },
     {
-      "name": "Server 15 Fast [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://5ffd914e-9594-4198-8327-145f096f8e4c@45.80.111.45:8880?type=ws&host=cnd.singapure.mygold.stream&path=/cdn/assets/stream#Server%2015%20Fast%20%5BDE%5D"
+      "name": "Server 15 Fast [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.34.106:443?path=/tyxyws&security=tls&encryption=none&fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]}&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#Server%2015%20Fast%20%5BCA%5D"
     },
     {
       "name": "Server 16 Fast [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://8344360f-0349-4784-a19f-33fd92e89389@172.93.167.45:443?path=/v2&security=tls&encryption=none&insecure=0&host=api.w2m.ink&fp=chrome&type=ws&allowInsecure=0&sni=api.w2m.ink#Server%2016%20Fast%20%5BCA%5D"
+      "vless": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@104.21.84.30:2053?security=tls&type=ws&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&host=fr.api-music-fa.com&alpn=http%2F1.1&sni=fr.api-music-fa.com&fp=chrome#Server%2016%20Fast%20%5BCA%5D"
     },
     {
       "name": "Server 17 Fast [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.17.189.78:443?path=/ws&security=tls&encryption=none&fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]}&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Server%2017%20Fast%20%5BCA%5D"
+      "vless": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=/pai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#Server%2017%20Fast%20%5BCA%5D"
     },
     {
       "name": "Server 18 Fast [NL]",
       "country": "The Netherlands",
       "country_code": "NL",
-      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@188.42.88.7:8443?sni=speed.dulacloud.store&type=ws&host=speed.dulacloud.store&path=/dula?Telegram-WangCai2fp=chrome&security=tls#Server%2018%20Fast%20%5BNL%5D"
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@188.42.145.7:8443?path=/dula?Telegram-WangCai2&security=tls&encryption=none&insecure=0&host=speed.dulacloud.store&fp=chrome&type=ws&allowInsecure=0&sni=speed.dulacloud.store#Server%2018%20Fast%20%5BNL%5D"
     },
     {
-      "name": "Server 19 Fast [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@104.21.84.30:2053?security=tls&type=ws&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&host=fr.api-music-fa.com&alpn=http%2F1.1&sni=fr.api-music-fa.com&fp=chrome#Server%2019%20Fast%20%5BCA%5D"
+      "name": "Server 19 Fast [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@188.42.88.7:8443?sni=speed.dulacloud.store&type=ws&host=speed.dulacloud.store&path=/dula?Telegram-WangCai2fp=chrome&security=tls#Server%2019%20Fast%20%5BNL%5D"
     },
     {
-      "name": "Server 20 Fast [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.34.106:443?path=/tyxyws&security=tls&encryption=none&fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]}&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#Server%2020%20Fast%20%5BCA%5D"
+      "name": "Server 20 Fast [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@139.64.235.7:8443?sni=speed.dulacloud.store&type=ws&host=speed.dulacloud.store&path=/dula?Telegram-WangCai2fp=chrome&security=tls#Server%2020%20Fast%20%5BUS%5D"
     }
   ]
 }
