@@ -1,250 +1,250 @@
 {
   "servers": [
     {
-      "name": "Server 1 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?host=connect.hondamotor.site&path=%2F&security=none&type=tcp#Server%201%20%5BDE%5D"
+      "name": "Server 1 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:447?security=none&type=ws&path=%2F&host=nl.privatevip.ir&encryption=none#Server%201%20%5BUS%5D"
     },
     {
-      "name": "Server 2 [FR]",
+      "name": "Server 2 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?fp=firefox&security=tls&sni=us007.zestapp778.com&type=raw#Server%202%20%5BUS%5D"
+    },
+    {
+      "name": "Server 3 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@support.zoom.us:8080?security=none&type=ws&path=%2F&host=free.nadun.store#Server%203%20%5BUS%5D"
+    },
+    {
+      "name": "Server 4 [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.190.13:443?cs=semi-python&path=%2Ftyxyws&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#Server%204%20%5BUS%5D"
+    },
+    {
+      "name": "Server 5 [FR]",
       "country": "France",
       "country_code": "FR",
-      "vless": "vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@155.117.5.208:2052?security=none&type=tcp#Server%202%20%5BFR%5D"
-    },
-    {
-      "name": "Server 3 [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:447?security=none&type=ws&path=%2F&host=nl.privatevip.ir&encryption=none#Server%203%20%5BNL%5D"
-    },
-    {
-      "name": "Server 4 [FR]",
-      "country": "France",
-      "country_code": "FR",
-      "vless": "vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?host=milo.rubinaz.xyz&path=%2F&security=none&type=tcp#Server%204%20%5BFR%5D"
-    },
-    {
-      "name": "Server 5 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@178.83.45.226:2052?security=none&type=tcp#Server%205%20%5BDE%5D"
+      "vless": "vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?host=connect.hondamotor.site&path=%2F&security=none&type=tcp#Server%205%20%5BFR%5D"
     },
     {
       "name": "Server 6 [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?security=none&type=raw#Server%206%20%5BDE%5D"
+      "vless": "vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?host=edge10.cyrionflare.com&path=%2F&type=tcp#Server%206%20%5BDE%5D"
     },
     {
-      "name": "Server 7 [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=node-uk.connectsuite.org#Server%207%20%5BGB%5D"
+      "name": "Server 7 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%207%20%5BCA%5D"
     },
     {
       "name": "Server 8 [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@148.253.210.191:443?encryption=none&fp=firefox&host=148-253-210-191.sslip.io&path=/test-ws&security=tls&sni=148-253-210-191.sslip.io&type=ws#Server%208%20%5BDE%5D"
+      "vless": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@185.78.76.166:443?encryption=none&security=tls&sni=n.bitpulse.me&fp=firefox&insecure=1&allowInsecure=1&type=ws&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed%3D2560#Server%208%20%5BDE%5D"
     },
     {
-      "name": "Server 9 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?security=tls&type=ws&path=%2F&sni=sino.bestsellers1.site&fp=chrome&encryption=none#Server%209%20%5BDE%5D"
-    },
-    {
-      "name": "Server 10 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?security=tls&type=ws&path=%2F&alpn=h3%2Ch2%2Chttp%2F1.1&sni=sino.bestsellers1.site&fp=chrome&encryption=none#Server%2010%20%5BDE%5D"
-    },
-    {
-      "name": "Server 11 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?path=%2F&security=tls&sni=site.check-looks.space&type=ws#Server%2011%20%5BDE%5D"
-    },
-    {
-      "name": "Server 12 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@148-253-210-191.sslip.io:443?host=148-253-210-191.sslip.io&path=%2Ftest-ws&security=tls&sni=148-253-210-191.sslip.io&type=ws#Server%2012%20%5BDE%5D"
-    },
-    {
-      "name": "Server 13 [NL]",
+      "name": "Server 9 [NL]",
       "country": "The Netherlands",
       "country_code": "NL",
-      "vless": "vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?security=tls&type=ws&path=%2Fvless-tr&packetEncoding=xudp&sni=tgmansion.site&fp=firefox#Server%2013%20%5BNL%5D"
+      "vless": "vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?security=tls&type=ws&path=%2Fvless-tr&packetEncoding=xudp&sni=tgmansion.site&fp=firefox#Server%209%20%5BNL%5D"
     },
     {
-      "name": "Server 14 [BY]",
-      "country": "Belarus",
-      "country_code": "BY",
-      "vless": "vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#Server%2014%20%5BBY%5D"
+      "name": "Server 10 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@saas.sin.fan:443?encryption=none&security=tls&sni=n.bitpulse.me&fp=firefox&insecure=1&allowInsecure=1&type=ws&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed%3D2560#Server%2010%20%5BCA%5D"
     },
     {
-      "name": "Server 15 [SE]",
-      "country": "Sweden",
-      "country_code": "SE",
-      "vless": "vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?path=/vless&security=&encryption=none&host=5.178.109.174&type=ws#Server%2015%20%5BSE%5D"
+      "name": "Server 11 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.228:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2011%20%5BCA%5D"
     },
     {
-      "name": "Server 16 [FI]",
-      "country": "Finland",
-      "country_code": "FI",
-      "vless": "vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?path=/vless&security=none&encryption=none&host=45.144.234.157&type=ws&sni=45.144.234.157#Server%2016%20%5BFI%5D"
+      "name": "Server 12 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.6.186:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2012%20%5BCA%5D"
     },
     {
-      "name": "Server 17 [AE]",
+      "name": "Server 13 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.210.74:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2013%20%5BCA%5D"
+    },
+    {
+      "name": "Server 14 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2014%20%5BCA%5D"
+    },
+    {
+      "name": "Server 15 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.195:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2015%20%5BCA%5D"
+    },
+    {
+      "name": "Server 16 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.0.1:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2016%20%5BCA%5D"
+    },
+    {
+      "name": "Server 17 [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.217.240:443?fp=firefox&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2017%20%5BCA%5D"
+    },
+    {
+      "name": "Server 18 [AE]",
       "country": "United Arab Emirates",
       "country_code": "AE",
-      "vless": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?host=95.174.68.188&path=%2Fvless&security=none&type=ws#Server%2017%20%5BAE%5D"
+      "vless": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?host=95.174.68.188&path=%2Fvless&security=none&type=ws#Server%2018%20%5BAE%5D"
     },
     {
-      "name": "Server 18 [ES]",
+      "name": "Server 19 [CH]",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "vless": "vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443?security=tls#Server%2019%20%5BCH%5D"
+    },
+    {
+      "name": "Server 20 [ES]",
       "country": "Spain",
       "country_code": "ES",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?type=tcp&security=tls&sni=#Server%2018%20%5BES%5D"
-    },
-    {
-      "name": "Server 19 [FI]",
-      "country": "Finland",
-      "country_code": "FI",
-      "vless": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@65.109.211.81:465?security=tls&type=ws&path=%2F&host=hw6.divarkhaghazi.com.&sni=hw6.divarkhaghazi.com&fp=firefox#Server%2019%20%5BFI%5D"
-    },
-    {
-      "name": "Server 20 [FI]",
-      "country": "Finland",
-      "country_code": "FI",
-      "vless": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?encryption=none&security=tls&sni=hw3.divarkhaghazi.com&type=ws&host=hw3.divarkhaghazi.com.&path=/#Server%2020%20%5BFI%5D"
+      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?type=tcp&security=tls&sni=#Server%2020%20%5BES%5D"
     },
     {
       "name": "Server 1 Iran Special [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&sni=45.138.100.248&type=tcp#Server%201%20Iran%20Special%20%5BUS%5D"
+      "vless": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?security=tls&sni=us007.zestapp778.com&type=tcp#Server%201%20Iran%20Special%20%5BUS%5D"
     },
     {
-      "name": "Server 2 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://2e305ebe-f6e6-4689-b32f-cd04ab5ff541@188.114.96.9:443?path=/vl/9yvcoLdzdOXLUYfH7r5gwJhu1CHrj&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=IdB8ONMVbntuYT5t7t6cEJfw8vLrb.paGEs.DeV#Server%202%20Iran%20Special%20%5BCA%5D"
+      "name": "Server 2 Iran Special [AE]",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "vless": "vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?encryption=none&path=%2Fvless&security=none&type=ws#Server%202%20Iran%20Special%20%5BAE%5D"
     },
     {
       "name": "Server 3 Iran Special [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#Server%203%20Iran%20Special%20%5BDE%5D"
+      "vless": "vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?path=%2F#Server%203%20Iran%20Special%20%5BDE%5D"
     },
     {
-      "name": "Server 4 Iran Special [AE]",
-      "country": "United Arab Emirates",
-      "country_code": "AE",
-      "vless": "vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?encryption=none&path=%2Fvless&security=none&type=ws#Server%204%20Iran%20Special%20%5BAE%5D"
+      "name": "Server 4 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?host=45.144.234.157&path=%2Fvless&security=none&type=ws#Server%204%20Iran%20Special%20%5BFI%5D"
     },
     {
       "name": "Server 5 Iran Special [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@168.222.43.53:8080?encryption=none&security=none&type=tcp#Server%205%20Iran%20Special%20%5BDE%5D"
+      "vless": "vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#Server%205%20Iran%20Special%20%5BDE%5D"
     },
     {
-      "name": "Server 6 Iran Special [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.45.6:8080?host=free.nadun.store&path=%2F&security=none&type=ws#Server%206%20Iran%20Special%20%5BUS%5D"
+      "name": "Server 6 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@178.83.45.226:2052?security=none&type=raw#Server%206%20Iran%20Special%20%5BDE%5D"
     },
     {
-      "name": "Server 7 Iran Special [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@support.zoom.us:8080?host=free.nadun.store&path=%2F&security=none&sni=support.zoom.us&type=ws#Server%207%20Iran%20Special%20%5BUS%5D"
+      "name": "Server 7 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@168.222.43.53:8080?encryption=none&security=none&type=tcp#Server%207%20Iran%20Special%20%5BDE%5D"
     },
     {
-      "name": "Server 8 Iran Special [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.46.6:8080?host=free.nadun.store&path=%2F&security=none&type=ws#Server%208%20Iran%20Special%20%5BUS%5D"
+      "name": "Server 8 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?security=none&type=tcp#Server%208%20Iran%20Special%20%5BDE%5D"
     },
     {
       "name": "Server 9 Iran Special [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.208.50:2083?path=%2Fvless-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=random&type=ws&allowInsecure=0&sni=speedtestmark.com#Server%209%20Iran%20Special%20%5BDE%5D"
+      "vless": "vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?fp=chrome&security=none&sni=connect.wecantos.site&type=tcp#Server%209%20Iran%20Special%20%5BDE%5D"
     },
     {
-      "name": "Server 10 Iran Special [US]",
+      "name": "Server 10 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@46.30.45.254:8444?security=tls&type=ws&path=%2Fapi%2Fv1%2Fdevices%2F7495606fef%2Ftelemetry&host=nl12.meshbeat.online&alpn=http%2F1.1&sni=nl12.meshbeat.online&fp=firefox#Server%2010%20Iran%20Special%20%5BNL%5D"
+    },
+    {
+      "name": "Server 11 Iran Special [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?encryption=none&security=none&type=ws&host=soft-shadow-1e33.xicav73335.workers.dev&path=%2Fws#Server%2010%20Iran%20Special%20%5BUS%5D"
+      "vless": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.46.6:8080?host=free.nadun.store&path=%2F&security=none&type=ws#Server%2011%20Iran%20Special%20%5BUS%5D"
     },
     {
-      "name": "Server 11 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@188.114.98.0:443?encryption=none&security=tls&type=ws&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed%3D2560&sni=n.bitpulse.me&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#Server%2011%20Iran%20Special%20%5BCA%5D"
-    },
-    {
-      "name": "Server 12 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://aef32408-b6f3-4ed9-8d70-983b2df79991@188.114.97.124:443?path=/stream/DEVCOP/983b2df79991/loc-0&security=tls&encryption=none&insecure=0&host=nisit-h7qx.matinnnamiri.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=nisit-h7qx.matinnnamiri.workers.dev#Server%2012%20Iran%20Special%20%5BCA%5D"
-    },
-    {
-      "name": "Server 13 Iran Special [DE]",
+      "name": "Server 12 Iran Special [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?encryption=none&fp=firefox&host=n.bitpulse.me&path=/019bcbad-3813-7cce-8786-3ac0e418f128?ed=2560&security=tls&sni=n.bitpulse.me&type=ws#Server%2013%20Iran%20Special%20%5BDE%5D"
+      "vless": "vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?security=tls&sni=site.check-looks.space&type=ws#Server%2012%20Iran%20Special%20%5BDE%5D"
     },
     {
-      "name": "Server 14 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823&security=tls&sni=n04.jinggai.online&type=ws#Server%2014%20Iran%20Special%20%5BCA%5D"
+      "name": "Server 13 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.45.6:8080?host=free.nadun.store&path=%2F&security=none&type=ws#Server%2013%20Iran%20Special%20%5BUS%5D"
+    },
+    {
+      "name": "Server 14 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@148.253.210.191:443?encryption=none&fp=firefox&host=148-253-210-191.sslip.io&path=/test-ws&security=tls&sni=148-253-210-191.sslip.io&type=ws#Server%2014%20Iran%20Special%20%5BDE%5D"
     },
     {
       "name": "Server 15 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://64726966-0000-4000-8000-740000000000@172.64.155.209:443?path=/drift&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=parsa-panel-dy55x.railway1385-2a46.workers.dev&type=ws&allowInsecure=0&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev#Server%2015%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.48.107:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2015%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 16 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.56:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2016%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#Server%2016%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 17 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.217.240:443?fp=firefox&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2017%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.9:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#Server%2017%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 18 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.33.25:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2018%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@188.114.98.0:443?encryption=none&security=tls&type=ws&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed%3D2560&sni=n.bitpulse.me&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#Server%2018%20Iran%20Special%20%5BCA%5D"
     },
     {
-      "name": "Server 19 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2019%20Iran%20Special%20%5BCA%5D"
+      "name": "Server 19 Iran Special [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?encryption=none&fp=firefox&host=n.bitpulse.me&path=/019bcbad-3813-7cce-8786-3ac0e418f128?ed=2560&security=tls&sni=n.bitpulse.me&type=ws#Server%2019%20Iran%20Special%20%5BDE%5D"
     },
     {
       "name": "Server 20 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.48.107:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2020%20Iran%20Special%20%5BCA%5D"
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.0.87:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2020%20Iran%20Special%20%5BCA%5D"
     },
     {
       "name": "Server 1 Fast [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#Server%201%20Fast%20%5BUS%5D"
+      "vless": "vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&security=none&sni=45.138.100.248&type=tcp#Server%201%20Fast%20%5BUS%5D"
     },
     {
       "name": "Server 2 Fast [US]",
@@ -256,7 +256,7 @@
       "name": "Server 3 Fast [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?sni=us007.zestapp778.com&fp=chrome&security=tls#Server%203%20Fast%20%5BUS%5D"
+      "vless": "vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@uspanel.unixzone.us:30016?security=none&type=ws&path=%2Fusserver&host=uspanel.unixzone.us&sni=uspanel.unixzone.us#Server%203%20Fast%20%5BUS%5D"
     },
     {
       "name": "Server 4 Fast [US]",
@@ -265,10 +265,10 @@
       "vless": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@208.84.100.209:8080?path=%2F&security=none&type=ws#Server%204%20Fast%20%5BUS%5D"
     },
     {
-      "name": "Server 5 Fast [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?security=tls&type=ws&path=%2Fws-tesla&host=fast.145779.xyz&sni=fast.145779.xyz&fp=chrome&encryption=none#Server%205%20Fast%20%5BCA%5D"
+      "name": "Server 5 Fast [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://c6362720-0931-4b91-b187-d8ecf3149734@155.117.5.208:10002?security=none&type=tcp#Server%205%20Fast%20%5BFR%5D"
     },
     {
       "name": "Server 6 Fast [CA]",
@@ -277,88 +277,88 @@
       "vless": "vless://c83f15bf-1817-4ec8-a19f-6393d226434c@172.67.199.126:2053?fp=chrome&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws#Server%206%20Fast%20%5BCA%5D"
     },
     {
-      "name": "Server 7 Fast [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?security=none&type=ws&path=%2Fusserver&host=zoom.us&sni=zoom.us#Server%207%20Fast%20%5BUS%5D"
+      "name": "Server 7 Fast [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?security=tls&type=ws&path=%2Fws-tesla&host=fast.145779.xyz&sni=fast.145779.xyz&fp=chrome&encryption=none#Server%207%20Fast%20%5BCA%5D"
     },
     {
-      "name": "Server 8 Fast [FR]",
+      "name": "Server 8 Fast [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.43.53:10000?security=none&type=tcp#Server%208%20Fast%20%5BDE%5D"
+    },
+    {
+      "name": "Server 9 Fast [FR]",
       "country": "France",
       "country_code": "FR",
-      "vless": "vless://c6362720-0931-4b91-b187-d8ecf3149734@155.117.5.208:10002?security=none&type=tcp#Server%208%20Fast%20%5BFR%5D"
-    },
-    {
-      "name": "Server 9 Fast [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@uspanel.unixzone.us:30016?security=none&type=ws&path=%2Fusserver&host=uspanel.unixzone.us&sni=uspanel.unixzone.us#Server%209%20Fast%20%5BUS%5D"
+      "vless": "vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@155.117.5.208:10000?type=raw#Server%209%20Fast%20%5BFR%5D"
     },
     {
       "name": "Server 10 Fast [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.43.53:10000?security=none&type=tcp#Server%2010%20Fast%20%5BDE%5D"
+      "vless": "vless://c6362720-0931-4b91-b187-d8ecf3149734@168.222.43.53:10002?security=none&type=tcp#Server%2010%20Fast%20%5BDE%5D"
     },
     {
-      "name": "Server 11 Fast [FR]",
+      "name": "Server 11 Fast [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@168.222.43.53:2052?fp=chrome&security=none&type=tcp#Server%2011%20Fast%20%5BDE%5D"
+    },
+    {
+      "name": "Server 12 Fast [FR]",
       "country": "France",
       "country_code": "FR",
-      "vless": "vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@155.117.5.208:10000?type=raw#Server%2011%20Fast%20%5BFR%5D"
+      "vless": "vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@155.117.5.208:20001?security=none&type=tcp#Server%2012%20Fast%20%5BFR%5D"
     },
     {
-      "name": "Server 12 Fast [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=none&type=tcp#Server%2012%20Fast%20%5BDE%5D"
+      "name": "Server 13 Fast [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&path=/vless#Server%2013%20Fast%20%5BFR%5D"
     },
     {
-      "name": "Server 13 Fast [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://c6362720-0931-4b91-b187-d8ecf3149734@168.222.43.53:10002?security=none&type=tcp#Server%2013%20Fast%20%5BDE%5D"
-    },
-    {
-      "name": "Server 14 Fast [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://c6362720-0931-4b91-b187-d8ecf3149734@178.83.45.226:10002?security=none&type=tcp#Server%2014%20Fast%20%5BDE%5D"
+      "name": "Server 14 Fast [BY]",
+      "country": "Belarus",
+      "country_code": "BY",
+      "vless": "vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#Server%2014%20Fast%20%5BBY%5D"
     },
     {
       "name": "Server 15 Fast [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@168.222.43.53:2052?fp=chrome&security=none&type=tcp#Server%2015%20Fast%20%5BDE%5D"
+      "vless": "vless://7d90f043-ed7f-40c9-ac2f-352987904958@57.129.41.216:80?security=none&type=ws&path=/vless/&host=ov-germany1.09vpn.com&sni=ov-germany1.09vpn.com#Server%2015%20Fast%20%5BDE%5D"
     },
     {
-      "name": "Server 16 Fast [FR]",
-      "country": "France",
-      "country_code": "FR",
-      "vless": "vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&path=/vless#Server%2016%20Fast%20%5BFR%5D"
+      "name": "Server 16 Fast [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#Server%2016%20Fast%20%5BDE%5D"
     },
     {
       "name": "Server 17 Fast [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#Server%2017%20Fast%20%5BDE%5D"
+      "vless": "vless://c6362720-0931-4b91-b187-d8ecf3149734@178.83.45.226:10002?security=none&type=tcp#Server%2017%20Fast%20%5BDE%5D"
     },
     {
       "name": "Server 18 Fast [FR]",
       "country": "France",
       "country_code": "FR",
-      "vless": "vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@155.117.5.208:20001?security=none&type=tcp#Server%2018%20Fast%20%5BFR%5D"
+      "vless": "vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@155.117.5.208:8080?encryption=none&security=none&type=tcp#Server%2018%20Fast%20%5BFR%5D"
     },
     {
-      "name": "Server 19 Fast [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#Server%2019%20Fast%20%5BDE%5D"
-    },
-    {
-      "name": "Server 20 Fast [FR]",
+      "name": "Server 19 Fast [FR]",
       "country": "France",
       "country_code": "FR",
-      "vless": "vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@155.117.5.208:8080?encryption=none&security=none&type=tcp#Server%2020%20Fast%20%5BFR%5D"
+      "vless": "vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@155.117.5.208:2052?security=none&type=tcp#Server%2019%20Fast%20%5BFR%5D"
+    },
+    {
+      "name": "Server 20 Fast [BY]",
+      "country": "Belarus",
+      "country_code": "BY",
+      "vless": "vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#Server%2020%20Fast%20%5BBY%5D"
     }
   ]
 }
