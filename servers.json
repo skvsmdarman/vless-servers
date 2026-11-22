@@ -5,159 +5,159 @@
       "country": "Canada",
       "country_code": "CA",
       "vless": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ov-canada1.09vpn.com#Server%201%20%5BCA%5D",
-      "latencyMs": 373,
-      "downloadMbps": 45.51
+      "latencyMs": 207,
+      "downloadMbps": 62.43
     },
     {
-      "name": "Server 2 [DE]",
+      "name": "Server 2 [AL]",
+      "country": "Albania",
+      "country_code": "AL",
+      "vless": "vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443?path=/media/ws/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=nl.lucheeebezlimitnoekino.stream#Server%202%20%5BAL%5D",
+      "latencyMs": 600,
+      "downloadMbps": 26.83
+    },
+    {
+      "name": "Server 3 [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://3cfa0d9b-6279-4b73-8533-09ad84e49c80@57.129.41.216:80?path=%2Fvless%2F&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#Server%202%20%5BDE%5D",
-      "latencyMs": 455,
-      "downloadMbps": 19.75
+      "vless": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@o685y.save-node.com:443?encryption=none&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#Server%203%20%5BDE%5D",
+      "latencyMs": 658,
+      "downloadMbps": 26.04
     },
     {
-      "name": "Server 3 [FR]",
-      "country": "France",
-      "country_code": "FR",
-      "vless": "vless://51a6ab93-e805-4b8b-89d1-d3ab85a118ce@54.36.102.152:2083?path=%2Fvless-kulo&security=none&encryption=none&type=ws#Server%203%20%5BFR%5D",
-      "latencyMs": 465,
-      "downloadMbps": 19.36
-    },
-    {
-      "name": "Server 4 [SE]",
-      "country": "Sweden",
-      "country_code": "SE",
-      "vless": "vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#Server%204%20%5BSE%5D",
-      "latencyMs": 487,
-      "downloadMbps": 19.18
-    },
-    {
-      "name": "Server 5 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://836c4d68-e086-11f1-aabc-67841df8a6f9@185.65.202.122:10004?encryption=none&path=/vpnjantit&security=none&type=ws#Server%205%20%5BDE%5D",
-      "latencyMs": 514,
-      "downloadMbps": 18.4
-    },
-    {
-      "name": "Server 6 [FI]",
-      "country": "Finland",
-      "country_code": "FI",
-      "vless": "vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?host=45.144.234.157&path=%2Fvless&security=none&type=ws#Server%206%20%5BFI%5D",
-      "latencyMs": 530,
-      "downloadMbps": 18.26
-    },
-    {
-      "name": "Server 7 [FI]",
-      "country": "Finland",
-      "country_code": "FI",
-      "vless": "vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?encryption=none&host=213.176.92.168&path=/vless&security=none&type=ws#Server%207%20%5BFI%5D",
-      "latencyMs": 585,
-      "downloadMbps": 18.87
-    },
-    {
-      "name": "Server 8 [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@o685y.save-node.com:443?encryption=none&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#Server%208%20%5BDE%5D",
-      "latencyMs": 752,
-      "downloadMbps": 20.95
-    },
-    {
-      "name": "Server 9 [SE]",
-      "country": "Sweden",
-      "country_code": "SE",
-      "vless": "vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?encryption=none&host=193.188.21.253&path=%2Fvless&security=none&type=ws#Server%209%20%5BSE%5D",
-      "latencyMs": 616,
-      "downloadMbps": 18.67
-    },
-    {
-      "name": "Server 10 [ES]",
+      "name": "Server 4 [ES]",
       "country": "Spain",
       "country_code": "ES",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?security=tls&sni=85.90.217.42&type=tcp#Server%2010%20%5BES%5D",
-      "latencyMs": 750,
-      "downloadMbps": 10.25
+      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?security=tls&sni=85.90.217.42&type=tcp#Server%204%20%5BES%5D",
+      "latencyMs": 587,
+      "downloadMbps": 24.36
     },
     {
-      "name": "Server 11 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@fr-free.fastestrelay.com:443?path=/700gvl&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fr-free.fastestrelay.com#Server%2011%20%5BCA%5D",
-      "latencyMs": 950,
-      "downloadMbps": 4.28
+      "name": "Server 5 [SE]",
+      "country": "Sweden",
+      "country_code": "SE",
+      "vless": "vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?encryption=none&host=193.188.21.253&path=%2Fvless&security=none&type=ws#Server%205%20%5BSE%5D",
+      "latencyMs": 487,
+      "downloadMbps": 22.01
     },
     {
-      "name": "Server 12 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2012%20%5BCA%5D",
+      "name": "Server 6 [JP]",
+      "country": "Japan",
+      "country_code": "JP",
+      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@94.177.131.113:443?security=tls&sni=kuruish.org&type=tcp&allowInsecure=0&encryption=none#Server%206%20%5BJP%5D",
+      "latencyMs": 586,
+      "downloadMbps": 23.61
+    },
+    {
+      "name": "Server 7 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://e5d062f0-7bad-4c80-9417-ae083eef61c1@146.103.118.189:443?path=%2Fws&security=tls&sni=nl2.574ck.xyz&type=ws#Server%207%20%5BNL%5D",
       "latencyMs": 670,
-      "downloadMbps": 2.11
+      "downloadMbps": 23.27
     },
     {
-      "name": "Server 13 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2013%20%5BCA%5D",
-      "latencyMs": 654,
-      "downloadMbps": 0.92
+      "name": "Server 8 [SE]",
+      "country": "Sweden",
+      "country_code": "SE",
+      "vless": "vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?path=%2Fmedia%2Fws%2F&security=tls&sni=volumestyle.komediyatorg.net&type=ws#Server%208%20%5BSE%5D",
+      "latencyMs": 641,
+      "downloadMbps": 20.41
+    },
+    {
+      "name": "Server 9 [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://58708e38-dd5a-0001-902d-93621ee2bd83@168.113.253.178:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=uzndiuvzvqqljdyhzs.fcloudservices.site#Server%209%20%5BRU%5D",
+      "latencyMs": 659,
+      "downloadMbps": 20.59
+    },
+    {
+      "name": "Server 10 [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://8973e4a5-1c15-0001-abc7-60fb180063ea@168.113.252.11:443?type=raw&security=tls&fp=chrome&sni=jkawq-ru-45sb.fade.mom#Server%2010%20%5BRU%5D",
+      "latencyMs": 715,
+      "downloadMbps": 20.38
+    },
+    {
+      "name": "Server 11 [CH]",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "vless": "vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@94.249.198.124:31652?encryption=none&type=tcp&headerType=none#Server%2011%20%5BCH%5D",
+      "latencyMs": 278,
+      "downloadMbps": 11.36
+    },
+    {
+      "name": "Server 12 [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@95.129.236.239:443?security=tls&sni=files-qzgs.login.opendns.stream&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Forigin%2F246825491%2Ffetch#Server%2012%20%5BRU%5D",
+      "latencyMs": 989,
+      "downloadMbps": 19.02
+    },
+    {
+      "name": "Server 13 [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&security=none&sni=sc-thenetherlands2.09vpn.com&type=ws&host=sc-thenetherlands2.09vpn.com&path=/vless/#Server%2013%20%5BNL%5D",
+      "latencyMs": 360,
+      "downloadMbps": 4.91
     },
     {
       "name": "Server 14 [FR]",
       "country": "France",
       "country_code": "FR",
-      "vless": "vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?encryption=none&host=OV-France1.09vpn.com&path=/vless/&security=none&type=ws#Server%2014%20%5BFR%5D",
-      "latencyMs": 471,
-      "downloadMbps": 0.0
+      "vless": "vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?encryption=none&type=tcp&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&fp=qq#Server%2014%20%5BFR%5D",
+      "latencyMs": 686,
+      "downloadMbps": 5.71
     },
     {
-      "name": "Server 15 [JP]",
-      "country": "Japan",
-      "country_code": "JP",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@13.114.101.22:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#Server%2015%20%5BJP%5D",
-      "latencyMs": 620,
-      "downloadMbps": 0.0
+      "name": "Server 15 [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?encryption=none&host=OV-France1.09vpn.com&path=/vless/&security=none&type=ws#Server%2015%20%5BFR%5D",
+      "latencyMs": 398,
+      "downloadMbps": 2.98
     },
     {
       "name": "Server 16 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2016%20%5BCA%5D",
-      "latencyMs": 712,
-      "downloadMbps": 0.0
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2016%20%5BCA%5D",
+      "latencyMs": 1562,
+      "downloadMbps": 2.51
     },
     {
-      "name": "Server 17 [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.0.87:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=android#Server%2017%20%5BCA%5D",
-      "latencyMs": 733,
-      "downloadMbps": 0.0
+      "name": "Server 17 [RU]",
+      "country": "Russia",
+      "country_code": "RU",
+      "vless": "vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#Server%2017%20%5BRU%5D",
+      "latencyMs": 588,
+      "downloadMbps": 0.81
     },
     {
-      "name": "Server 18 [CH]",
-      "country": "Switzerland",
-      "country_code": "CH",
-      "vless": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#Server%2018%20%5BCH%5D",
-      "latencyMs": 733,
+      "name": "Server 18 [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#Server%2018%20%5BDE%5D",
+      "latencyMs": 395,
       "downloadMbps": 0.0
     },
     {
       "name": "Server 19 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.234:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2019%20%5BCA%5D",
-      "latencyMs": 790,
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2019%20%5BCA%5D",
+      "latencyMs": 1574,
       "downloadMbps": 0.0
     },
     {
       "name": "Server 20 [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@172.67.139.189:443?security=tls&sni=fr-free.fastestrelay.com&type=ws&host=fr-free.fastestrelay.com&path=%2F700gvl&fp=chrome&allowInsecure=0#Server%2020%20%5BCA%5D",
-      "latencyMs": 919,
+      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.202:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#Server%2020%20%5BCA%5D",
+      "latencyMs": 1670,
       "downloadMbps": 0.0
     },
     {
@@ -165,320 +165,320 @@
       "country": "United States",
       "country_code": "US",
       "vless": "vless://2006aa32-9ba2-4fe0-bd3d-3deaceb621e1@129.153.128.162:853?security=none&type=ws&path=%2Fws&host=firsty.app&encryption=none#Server%201%20Iran%20Special%20%5BUS%5D",
-      "latencyMs": 539,
-      "downloadMbps": 48.25
+      "latencyMs": 401,
+      "downloadMbps": 62.6
     },
     {
-      "name": "Server 2 Iran Special [JP]",
-      "country": "Japan",
-      "country_code": "JP",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@94.177.131.113:443?security=tls&sni=kuruish.org&type=tcp&allowInsecure=0&encryption=none#Server%202%20Iran%20Special%20%5BJP%5D",
-      "latencyMs": 454,
-      "downloadMbps": 31.94
+      "name": "Server 2 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?security=tls&encryption=none&insecure=0&host=kuruish.org&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#Server%202%20Iran%20Special%20%5BUS%5D",
+      "latencyMs": 637,
+      "downloadMbps": 59.19
     },
     {
-      "name": "Server 3 Iran Special [KR]",
-      "country": "South Korea",
-      "country_code": "KR",
-      "vless": "vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws&path=%2F&sni=152.69.226.63#Server%203%20Iran%20Special%20%5BKR%5D",
-      "latencyMs": 436,
-      "downloadMbps": 20.38
+      "name": "Server 3 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?host=45.144.234.157&path=%2Fvless&security=none&type=ws#Server%203%20Iran%20Special%20%5BFI%5D",
+      "latencyMs": 457,
+      "downloadMbps": 22.96
     },
     {
-      "name": "Server 4 Iran Special [FR]",
-      "country": "France",
-      "country_code": "FR",
-      "vless": "vless://03033cd9-817d-486d-bb3b-37d92b8346f0@147.135.213.72:20049?encryption=none&path=/vless-ws&security=none&type=ws#Server%204%20Iran%20Special%20%5BFR%5D",
-      "latencyMs": 436,
-      "downloadMbps": 20.12
+      "name": "Server 4 Iran Special [FI]",
+      "country": "Finland",
+      "country_code": "FI",
+      "vless": "vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?encryption=none&host=213.176.92.168&path=/vless&security=none&type=ws#Server%204%20Iran%20Special%20%5BFI%5D",
+      "latencyMs": 522,
+      "downloadMbps": 24.28
     },
     {
-      "name": "Server 5 Iran Special [DE]",
+      "name": "Server 5 Iran Special [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://443b1e88-41fa-43bb-ff6c-982544254b74@wandering-river-cd33.mramezanian1375.workers.dev:443?security=tls&type=ws&path=%2F87fab74555d6e093&sni=wandering-river-cd33.mramezanian1375.workers.dev&fp=chrome#Server%205%20Iran%20Special%20%5BCA%5D",
+      "latencyMs": 905,
+      "downloadMbps": 32.16
+    },
+    {
+      "name": "Server 6 Iran Special [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#Server%205%20Iran%20Special%20%5BDE%5D",
-      "latencyMs": 467,
-      "downloadMbps": 19.52
+      "vless": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#Server%206%20Iran%20Special%20%5BDE%5D",
+      "latencyMs": 620,
+      "downloadMbps": 25.57
     },
     {
-      "name": "Server 6 Iran Special [SG]",
-      "country": "Singapore",
-      "country_code": "SG",
-      "vless": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?security=none&type=ws&path=%2Fvless&packetEncoding=xudp#Server%206%20Iran%20Special%20%5BSG%5D",
-      "latencyMs": 492,
-      "downloadMbps": 19.36
+      "name": "Server 7 Iran Special [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://443b1e88-41fa-43bb-ff6c-982544254b74@104.21.14.228:443?security=tls&type=ws&path=%2F87fab74555d6e093&host=wandering-river-cd33.mramezanian1375.workers.dev&sni=wandering-river-cd33.mramezanian1375.workers.dev&fp=chrome#Server%207%20Iran%20Special%20%5BCA%5D",
+      "latencyMs": 946,
+      "downloadMbps": 31.35
     },
     {
-      "name": "Server 7 Iran Special [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#Server%207%20Iran%20Special%20%5BDE%5D",
-      "latencyMs": 728,
-      "downloadMbps": 21.14
-    },
-    {
-      "name": "Server 8 Iran Special [KR]",
-      "country": "South Korea",
-      "country_code": "KR",
-      "vless": "vless://27c5483f-17f4-48ae-9a04-def53d88440d@leviko-kr7255.shopingggg.ir:25555?security=none&type=ws&path=%2F&host=leviko-kr7255.shopingggg.ir&encryption=none#Server%208%20Iran%20Special%20%5BKR%5D",
-      "latencyMs": 555,
-      "downloadMbps": 17.37
+      "name": "Server 8 Iran Special [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@172.67.197.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=o685y.save-node.com&type=ws&headerType=none&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p#Server%208%20Iran%20Special%20%5BCA%5D",
+      "latencyMs": 785,
+      "downloadMbps": 26.58
     },
     {
       "name": "Server 9 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@172.67.197.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=o685y.save-node.com&type=ws&headerType=none&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p#Server%209%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 977,
-      "downloadMbps": 22.15
+      "vless": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.114.98.0:443?security=tls&type=ws&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&sni=o685y.save-node.com&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#Server%209%20Iran%20Special%20%5BCA%5D",
+      "latencyMs": 859,
+      "downloadMbps": 27.0
     },
     {
-      "name": "Server 10 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.114.98.0:443?security=tls&type=ws&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&sni=o685y.save-node.com&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#Server%2010%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 1120,
-      "downloadMbps": 18.18
+      "name": "Server 10 Iran Special [NL]",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "vless": "vless://bfc6755a-0c89-4904-849a-e4cbc0f3a17c@109.248.162.218:11209?security=none&encryption=none&headerType=none&type=tcp#Server%2010%20Iran%20Special%20%5BNL%5D",
+      "latencyMs": 614,
+      "downloadMbps": 8.47
     },
     {
-      "name": "Server 11 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#Server%2011%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 1140,
-      "downloadMbps": 2.73
+      "name": "Server 11 Iran Special [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?encryption=none&fp=firefox&host=uk1.connectsuite.org&path=%2Fcdn-cgi%2Fws&security=tls&sni=uk1.connectsuite.org&type=ws#Server%2011%20Iran%20Special%20%5BGB%5D",
+      "latencyMs": 554,
+      "downloadMbps": 6.54
     },
     {
-      "name": "Server 12 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.42.98:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2012%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 938,
-      "downloadMbps": 2.0
+      "name": "Server 12 Iran Special [GB]",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "vless": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?type=ws&host=google.com&path=/vless/#Server%2012%20Iran%20Special%20%5BGB%5D",
+      "latencyMs": 344,
+      "downloadMbps": 3.21
     },
     {
-      "name": "Server 13 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.135:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2013%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 1093,
-      "downloadMbps": 1.33
+      "name": "Server 13 Iran Special [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&security=none&fp=chrome&type=ws&host=152.228.162.19&path=/vless/#Server%2013%20Iran%20Special%20%5BFR%5D",
+      "latencyMs": 391,
+      "downloadMbps": 2.96
     },
     {
-      "name": "Server 14 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.219.160:443?cs=semi-python&path=%2Ftyxyws&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#Server%2014%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 1158,
-      "downloadMbps": 0.44
-    },
-    {
-      "name": "Server 15 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2015%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 1045,
-      "downloadMbps": 0.4
-    },
-    {
-      "name": "Server 16 Iran Special [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://18535741-e8b3-4b43-9348-785b55936751@ov-germany1.09vpn.com:80?fp=firefox&host=ov-germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Server%2016%20Iran%20Special%20%5BDE%5D",
-      "latencyMs": 474,
-      "downloadMbps": 0.0
-    },
-    {
-      "name": "Server 17 Iran Special [US]",
+      "name": "Server 14 Iran Special [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?security=tls&sni=neplay603.gangtype.com&alpn=http/1.1&fp=chrome&type=ws&host=neplay603.gangtype.com&path=/stream/updates/a66d7902#Server%2017%20Iran%20Special%20%5BUS%5D",
-      "latencyMs": 726,
+      "vless": "vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?&type=ws&headerType=none&host=soft-shadow-1e33.xicav73335.workers.dev&path=/ws#Server%2014%20Iran%20Special%20%5BUS%5D",
+      "latencyMs": 2805,
+      "downloadMbps": 5.03
+    },
+    {
+      "name": "Server 15 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?security=tls&sni=neplay603.gangtype.com&alpn=http/1.1&fp=chrome&type=ws&host=neplay603.gangtype.com&path=/stream/updates/a66d7902#Server%2015%20Iran%20Special%20%5BUS%5D",
+      "latencyMs": 569,
+      "downloadMbps": 0.3
+    },
+    {
+      "name": "Server 16 Iran Special [US]",
+      "country": "United States",
+      "country_code": "US",
+      "vless": "vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.125:444?&security=tls&fp=chrome&sni=neplay603.gangtype.com&type=ws&headerType=none&host=neplay603.gangtype.com&path=%2Fstream%2Fupdates%2Fa66d7902#Server%2016%20Iran%20Special%20%5BUS%5D",
+      "latencyMs": 586,
+      "downloadMbps": 0.3
+    },
+    {
+      "name": "Server 17 Iran Special [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://b9ede7a5-5b4b-4aee-ac37-2c307e587e47@courses.mftplus.qzz.io:2096?type=ws&security=tls&path=/eyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&sni=courses.mftplus.qzz.io&fp=chrome#Server%2017%20Iran%20Special%20%5BCA%5D",
+      "latencyMs": 435,
       "downloadMbps": 0.0
     },
     {
       "name": "Server 18 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.210.74:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2018%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 881,
+      "vless": "vless://ccaa9413-2163-466e-a915-29c215b0be0a@netra-28e601.ruzgarsis053gmailcomsaccount.workers.dev:443?path=%2Fvl%2FD1utewa490l8iCymueVABy77F5t%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=netra-28e601.ruzgarsis053gmailcomsaccount.workers.dev&fp=chrome&type=ws&sni=nEtRa-28e601.rUZgArSiS053GmAIlCoMsaccOunT.WORKERs.DEV#Server%2018%20Iran%20Special%20%5BCA%5D",
+      "latencyMs": 447,
       "downloadMbps": 0.0
     },
     {
-      "name": "Server 19 Iran Special [CA]",
-      "country": "Canada",
-      "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.6.186:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2019%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 931,
+      "name": "Server 19 Iran Special [CH]",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "vless": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#Server%2019%20Iran%20Special%20%5BCH%5D",
+      "latencyMs": 549,
       "downloadMbps": 0.0
     },
     {
       "name": "Server 20 Iran Special [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.72:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#Server%2020%20Iran%20Special%20%5BCA%5D",
-      "latencyMs": 1140,
+      "vless": "vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@fr-free.fastestrelay.com:443?path=/700gvl&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fr-free.fastestrelay.com#Server%2020%20Iran%20Special%20%5BCA%5D",
+      "latencyMs": 691,
       "downloadMbps": 0.0
     },
     {
       "name": "Server 1 Fast [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@154.12.49.239:80?security=none&type=ws&path=/platform103#Server%201%20Fast%20%5BUS%5D",
-      "latencyMs": 111,
-      "downloadMbps": 62.92
+      "vless": "vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&type=tcp#Server%201%20Fast%20%5BUS%5D",
+      "latencyMs": 90,
+      "downloadMbps": 62.69
     },
     {
       "name": "Server 2 Fast [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=%2F&security=none&type=tcp#Server%202%20Fast%20%5BUS%5D",
-      "latencyMs": 157,
-      "downloadMbps": 48.88
+      "vless": "vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?security=none&type=ws&path=%2Fusserver#Server%202%20Fast%20%5BUS%5D",
+      "latencyMs": 98,
+      "downloadMbps": 62.56
     },
     {
       "name": "Server 3 Fast [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?security=none&type=ws&path=%2Fusserver#Server%203%20Fast%20%5BUS%5D",
-      "latencyMs": 178,
-      "downloadMbps": 50.42
+      "vless": "vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430/?type=ws&encryption=none&flow=&path=/vless#Server%203%20Fast%20%5BUS%5D",
+      "latencyMs": 114,
+      "downloadMbps": 63.15
     },
     {
       "name": "Server 4 Fast [US]",
       "country": "United States",
       "country_code": "US",
       "vless": "vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@uspanel.unixzone.us:30016?host=uspanel.unixzone.us&path=%2Fusserver&security=none&sni=uspanel.unixzone.us&type=ws#Server%204%20Fast%20%5BUS%5D",
-      "latencyMs": 195,
-      "downloadMbps": 50.53
+      "latencyMs": 123,
+      "downloadMbps": 61.45
     },
     {
       "name": "Server 5 Fast [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430/?type=ws&encryption=none&flow=&path=/vless#Server%205%20Fast%20%5BUS%5D",
-      "latencyMs": 205,
-      "downloadMbps": 49.01
+      "vless": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@154.12.49.239:80?security=none&type=ws&path=/platform103#Server%205%20Fast%20%5BUS%5D",
+      "latencyMs": 155,
+      "downloadMbps": 62.47
     },
     {
       "name": "Server 6 Fast [US]",
       "country": "United States",
       "country_code": "US",
       "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@216.106.185.158:443?security=tls&sni=kuruish.org&type=tcp&allowInsecure=0&encryption=none#Server%206%20Fast%20%5BUS%5D",
-      "latencyMs": 172,
-      "downloadMbps": 40.08
+      "latencyMs": 290,
+      "downloadMbps": 62.45
     },
     {
       "name": "Server 7 Fast [CA]",
       "country": "Canada",
       "country_code": "CA",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?security=tls&sni=kuruish.org&type=tcp&allowInsecure=0&encryption=none#Server%207%20Fast%20%5BCA%5D",
-      "latencyMs": 344,
-      "downloadMbps": 47.63
+      "vless": "vless://65c21703-ae89-4eed-ae87-8bec8a4c000c@tachu37.top:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=tachu37.top&type=ws&headerType=none&host=tachu37.top&path=%2Fjs#Server%207%20Fast%20%5BCA%5D",
+      "latencyMs": 417,
+      "downloadMbps": 51.07
     },
     {
-      "name": "Server 8 Fast [JP]",
-      "country": "Japan",
-      "country_code": "JP",
-      "vless": "vless://ff8fc3f9-0c1b-4a6f-97cb-ed1cde4de62d@168.110.21.56:18454?security=none&type=tcp#Server%208%20Fast%20%5BJP%5D",
-      "latencyMs": 203,
-      "downloadMbps": 31.26
+      "name": "Server 8 Fast [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://d027b485-4e11-4485-9d0f-2ef1f1129eff@172.67.219.189:443?path=/d027b485-4e11-4485-9d0f-2ef1f1129eff&security=tls&encryption=none&insecure=0&host=cdn4.salamfox.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn4.salamfox.ir#Server%208%20Fast%20%5BCA%5D",
+      "latencyMs": 451,
+      "downloadMbps": 46.09
     },
     {
-      "name": "Server 9 Fast [JP]",
-      "country": "Japan",
-      "country_code": "JP",
-      "vless": "vless://1751bebc-1bf1-420c-8b9d-97157aad179b@168.110.21.56:18453#Server%209%20Fast%20%5BJP%5D",
-      "latencyMs": 203,
-      "downloadMbps": 25.97
+      "name": "Server 9 Fast [CA]",
+      "country": "Canada",
+      "country_code": "CA",
+      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?security=tls&sni=kuruish.org&type=tcp&allowInsecure=0&encryption=none#Server%209%20Fast%20%5BCA%5D",
+      "latencyMs": 322,
+      "downloadMbps": 33.39
     },
     {
-      "name": "Server 10 Fast [US]",
-      "country": "United States",
-      "country_code": "US",
-      "vless": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?encryption=none&security=tls&sni=kuruish.org&type=tcp&headerType=none&host=kuruish.org&allowInsecure=0&insecure=0&fp=chrome#Server%2010%20Fast%20%5BUS%5D",
-      "latencyMs": 354,
-      "downloadMbps": 26.67
-    },
-    {
-      "name": "Server 11 Fast [DE]",
+      "name": "Server 10 Fast [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?security=none&type=tcp&encryption=none#Server%2011%20Fast%20%5BDE%5D",
-      "latencyMs": 326,
-      "downloadMbps": 20.23
+      "vless": "vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?&type=tcp&headerType=none&path=%2F#Server%2010%20Fast%20%5BDE%5D",
+      "latencyMs": 346,
+      "downloadMbps": 25.88
     },
     {
-      "name": "Server 12 Fast [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://bfc6755a-0c89-4904-849a-e4cbc0f3a17c@109.248.162.218:11209?security=none&encryption=none&headerType=none&type=tcp#Server%2012%20Fast%20%5BNL%5D",
-      "latencyMs": 295,
-      "downloadMbps": 19.41
+      "name": "Server 11 Fast [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://51a6ab93-e805-4b8b-89d1-d3ab85a118ce@54.36.102.152:2083?security=none&type=ws&path=%2Fvless-kulo&encryption=none#Server%2011%20Fast%20%5BFR%5D",
+      "latencyMs": 350,
+      "downloadMbps": 25.93
     },
     {
-      "name": "Server 13 Fast [DE]",
+      "name": "Server 12 Fast [JP]",
+      "country": "Japan",
+      "country_code": "JP",
+      "vless": "vless://1751bebc-1bf1-420c-8b9d-97157aad179b@168.110.21.56:18453#Server%2012%20Fast%20%5BJP%5D",
+      "latencyMs": 276,
+      "downloadMbps": 23.39
+    },
+    {
+      "name": "Server 13 Fast [JP]",
+      "country": "Japan",
+      "country_code": "JP",
+      "vless": "vless://ff8fc3f9-0c1b-4a6f-97cb-ed1cde4de62d@168.110.21.56:18454?security=none&type=tcp#Server%2013%20Fast%20%5BJP%5D",
+      "latencyMs": 275,
+      "downloadMbps": 23.07
+    },
+    {
+      "name": "Server 14 Fast [DE]",
       "country": "Germany",
       "country_code": "DE",
-      "vless": "vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?&type=tcp&headerType=none&path=%2F#Server%2013%20Fast%20%5BDE%5D",
-      "latencyMs": 309,
-      "downloadMbps": 19.33
+      "vless": "vless://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?security=none&type=tcp&encryption=none#Server%2014%20Fast%20%5BDE%5D",
+      "latencyMs": 318,
+      "downloadMbps": 22.73
     },
     {
-      "name": "Server 14 Fast [SG]",
+      "name": "Server 15 Fast [DE]",
+      "country": "Germany",
+      "country_code": "DE",
+      "vless": "vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?security=none&type=tcp&encryption=none#Server%2015%20Fast%20%5BDE%5D",
+      "latencyMs": 276,
+      "downloadMbps": 21.22
+    },
+    {
+      "name": "Server 16 Fast [BY]",
+      "country": "Belarus",
+      "country_code": "BY",
+      "vless": "vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#Server%2016%20Fast%20%5BBY%5D",
+      "latencyMs": 324,
+      "downloadMbps": 21.91
+    },
+    {
+      "name": "Server 17 Fast [EE]",
+      "country": "Estonia",
+      "country_code": "EE",
+      "vless": "vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?#Server%2017%20Fast%20%5BEE%5D",
+      "latencyMs": 409,
+      "downloadMbps": 17.86
+    },
+    {
+      "name": "Server 18 Fast [SG]",
       "country": "Singapore",
       "country_code": "SG",
-      "vless": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#Server%2014%20Fast%20%5BSG%5D",
-      "latencyMs": 333,
-      "downloadMbps": 19.31
+      "vless": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#Server%2018%20Fast%20%5BSG%5D",
+      "latencyMs": 403,
+      "downloadMbps": 13.2
     },
     {
-      "name": "Server 15 Fast [US]",
+      "name": "Server 19 Fast [US]",
       "country": "United States",
       "country_code": "US",
-      "vless": "vless://c657310e-d87c-4358-9cb7-200a0c3f35e8@62.144.51.95:443?&type=tcp&headerType=none&path=%2F#Server%2015%20Fast%20%5BUS%5D",
-      "latencyMs": 378,
-      "downloadMbps": 18.39
+      "vless": "vless://c657310e-d87c-4358-9cb7-200a0c3f35e8@62.144.51.95:443?&type=tcp&headerType=none&path=%2F#Server%2019%20Fast%20%5BUS%5D",
+      "latencyMs": 341,
+      "downloadMbps": 7.48
     },
     {
-      "name": "Server 16 Fast [TR]",
-      "country": "Turkey",
-      "country_code": "TR",
-      "vless": "vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?encryption=none&security=none&type=tcp#Server%2016%20Fast%20%5BTR%5D",
+      "name": "Server 20 Fast [FR]",
+      "country": "France",
+      "country_code": "FR",
+      "vless": "vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#Server%2020%20Fast%20%5BFR%5D",
       "latencyMs": 390,
-      "downloadMbps": 15.59
-    },
-    {
-      "name": "Server 17 Fast [DE]",
-      "country": "Germany",
-      "country_code": "DE",
-      "vless": "vless://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?security=none&type=tcp&encryption=none#Server%2017%20Fast%20%5BDE%5D",
-      "latencyMs": 374,
-      "downloadMbps": 7.57
-    },
-    {
-      "name": "Server 18 Fast [CH]",
-      "country": "Switzerland",
-      "country_code": "CH",
-      "vless": "vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@94.249.198.124:31652?encryption=none&type=tcp&headerType=none#Server%2018%20Fast%20%5BCH%5D",
-      "latencyMs": 321,
-      "downloadMbps": 0.0
-    },
-    {
-      "name": "Server 19 Fast [GB]",
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "vless": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?type=ws&host=google.com&path=/vless/#Server%2019%20Fast%20%5BGB%5D",
-      "latencyMs": 423,
-      "downloadMbps": 0.0
-    },
-    {
-      "name": "Server 20 Fast [NL]",
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "vless": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#Server%2020%20Fast%20%5BNL%5D",
-      "latencyMs": 424,
-      "downloadMbps": 0.0
+      "downloadMbps": 2.91
     }
   ]
 }
